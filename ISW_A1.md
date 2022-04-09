@@ -36,3 +36,4 @@ c.	Contar con todas las Especialidades médicas en un ambiente ecológico, respo
 d.	Contar con sistemas y procesos modernos, que respondan a la demanda, permitiendo el acceso a la población de mayor pobreza y brindando servicios eficientes y de calidad.
 e.	Alcanzar un importante nivel de calificación y posicionamiento como hospital de apoyo a la docencia y de investigación aplicada en salud.
 f.	Remodelar la infraestructura hospitalaria y renovar los equipos médicos acordes al avance tecnológico, incorporando tecnología moderna.
+
