@@ -24,7 +24,7 @@ I.	ASPECTOS DE LA ORGANIZACIÓN
 
 La Misión del Hospital Sergio E. Bernales es prevenir los riesgos, proteger del daño, recuperar la salud y rehabilitar las capacidades de los pacientes, en condiciones de plena accesibilidad y de atención a la persona desde su concepción hasta su muerte natural.
 
-### OBJETIVOS 
+### OBJETIVOS
 
 #### Objetivos Estratégicos
 
@@ -36,4 +36,4 @@ c.	Contar con todas las Especialidades médicas en un ambiente ecológico, respo
 d.	Contar con sistemas y procesos modernos, que respondan a la demanda, permitiendo el acceso a la población de mayor pobreza y brindando servicios eficientes y de calidad.
 e.	Alcanzar un importante nivel de calificación y posicionamiento como hospital de apoyo a la docencia y de investigación aplicada en salud.
 f.	Remodelar la infraestructura hospitalaria y renovar los equipos médicos acordes al avance tecnológico, incorporando tecnología moderna.
-
+---
