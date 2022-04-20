@@ -128,9 +128,8 @@ La vía de acceso principal es la Avenida Túpac Amaru, el medio de transporte c
     *Guerra Pinedo, Pablo Cesar
     *Jesús Chávez, Daniel Alonso
     *Peña Rosillo, Diego Ernesto
-    
-    ![image](https://user-images.githubusercontent.com/81536639/164134832-d0361b01-9476-4f9f-9f34-1a417bc7aa76.png)
 
+![image](https://user-images.githubusercontent.com/81536639/164138401-6bf8274c-7a3a-42cf-abb1-ced38615cfd8.png)
 
 #### **1.5.3. Software**
 
