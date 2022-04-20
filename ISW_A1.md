@@ -103,6 +103,9 @@ III.	METODOLOGÍA
 ![organigrama](D:\UNIVERSIDAD UCV\UNIVERSIDAD V CICLO\INGENIERIA DE SOFTWARE\PROYECTO\ORGANIGRAMA.jpg)
 
 
+![image](https://user-images.githubusercontent.com/81536639/164129520-58dce058-9250-467e-b17f-315a15ebead1.png)
+
+
 ### **1.5. AMBITO DEL PROYECTO**
 
 
@@ -125,14 +128,39 @@ La vía de acceso principal es la Avenida Túpac Amaru, el medio de transporte c
     *Guerra Pinedo, Pablo Cesar
     *Jesús Chávez, Daniel Alonso
     *Peña Rosillo, Diego Ernesto
+    
+    ![image](https://user-images.githubusercontent.com/81536639/164134832-d0361b01-9476-4f9f-9f34-1a417bc7aa76.png)
+
 
 #### **1.5.3. Software**
 
+*   Microsoft Word 2010
 
+Se utilizó para la elaboración de los diferentes artefactos comprendidos en el alcance del proyecto.
 
+* Microsoft Excel 2010
+
+Se utilizó para la elaboración de los cálculos de estimación del proyecto y las diferentes tablas incluidas en los artefactos elaborados.
+
+* Enterprise Architect
+
+Es una herramienta de diseño y análisis UML integral para UML, SysML, BPMN y muchas otras tecnologías. Abarca el desarrollo de software desde la recopilación de requisitos hasta las etapas de análisis, modelos de diseño, pruebas y mantenimiento.
+
+* SQL Server 2019
+
+Microsoft SQL Server es un sistema de gestión de bases de datos relacionales (RDBMS) que admite una amplia variedad de aplicaciones de procesamiento de transacciones, inteligencia empresarial y análisis en entornos informáticos corporativos. Microsoft SQL Server es una de las tres tecnologías de bases de datos líderes del mercado, junto con Oracle Database y DB2 de IBM.
+
+* Neatbeans
+
+Netbeans es un IDE (Integrated Development Environment) o entorno de desarrollo integrado, que es gratuito y de código abierto. Si quieres saber qué es Netbeans, en primera instancia, se debe destacar que sirve para el desarrollo de aplicaciones web, corporativas, de escritorio y móviles que utilizan plataformas como Java y HTML5, entre otras.
+
+* GitHub
+
+Se trata de una de las principales plataformas para crear proyectos abiertos de herramientas y aplicaciones, y se caracteriza sobre todo por sus funciones colaborativas que ayudan a que todos puedan aportar su granito de arena para mejorar el código.
+
+Como buen repositorio, el código de los proyectos que sean abiertos puede ser descargado y revisado por cualquier usuario, lo que ayuda a mejorar el producto y crear ramificaciones a partir de él. Y si prefieres que tu código no se vea, también pueden crearse proyectos privados.
 
 #### **1.5.4. Hardware**
-
 
 
 #### **1.5.5. Cronograma de Actividades**
@@ -158,3 +186,20 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 ### **3.1. Modelo de Requerimientos**
 
 #### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripcion**
+
+![image](https://user-images.githubusercontent.com/81536639/164130895-220ea080-bf60-4a37-8936-8248bec662ce.png)
+![image](https://user-images.githubusercontent.com/81536639/164130926-8b8902fa-c59c-4209-8b4c-b79ced9b716b.png)
+
+![image](https://user-images.githubusercontent.com/81536639/164131080-11ac3ecc-b779-446a-8768-80a2b5f8986b.png)
+
+#### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
+
+![image](https://user-images.githubusercontent.com/81536639/164131389-1523b01c-fe8a-452c-b782-199641ee9c6b.png)
+
+![image](https://user-images.githubusercontent.com/81536639/164134244-b2cbeefb-f847-4268-89a4-46dec81be02c.png)
+
+#### **3.1.3. Cuadro de relación de actores y su descripción, cuadro indicando**
+
+![image](https://user-images.githubusercontent.com/81536639/164134382-07e14c89-9969-43b6-a990-b760756c589b.png)
+
+#### **3.1.4. Relación de casos de uso**
