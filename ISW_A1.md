@@ -100,9 +100,6 @@ III.	METODOLOGÍA
 
 ### **1.5. ORGANIGRAMA**
 
-![organigrama](D:\UNIVERSIDAD UCV\UNIVERSIDAD V CICLO\INGENIERIA DE SOFTWARE\PROYECTO\ORGANIGRAMA.jpg)
-
-
 ![image](https://user-images.githubusercontent.com/81536639/164129520-58dce058-9250-467e-b17f-315a15ebead1.png)
 
 
