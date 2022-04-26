@@ -234,6 +234,16 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.6. Cuadro Plantilla de especificaciones de casos de uso**
 
+![image](https://user-images.githubusercontent.com/81536639/165405748-f753e257-1cd3-44f4-b6f4-b23e4bda623c.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165405816-0bf9bc0e-a883-416c-850b-31aff15e471b.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165405977-4e8bb449-0da0-4485-b274-7c17dc159c68.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165406047-a1d1cb96-749f-4ef2-945b-44a21fc192b4.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165406124-c924f88b-1b36-478d-901a-e6db1dcbdf00.png)
+
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
 #### **3.1.8. Modelo Conceptual de Clases**
