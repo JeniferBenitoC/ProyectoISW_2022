@@ -3,7 +3,7 @@
 # **"Sistema de información para mejorar la gestión de información en la atención por Telemedicina para el Centro de Salud Comas"**
 
 ## **EXPERIENCI CURRICULAR**
-#Ingenería de Software 
+### Ingenería de Software
 
 ## **ASESOR**
 ## **RICHARD LEONARDO BERROCAL NAVARRO**
