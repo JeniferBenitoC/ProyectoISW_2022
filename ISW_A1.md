@@ -2,22 +2,22 @@
 
 # **"Sistema de información para mejorar la gestión de información en la atención por Telemedicina para el Centro de Salud Comas"**
 
-EXPERIENCIA CURRICULAR
+**EXPEERIENCIA CURRICULAR**
+  
+   Ingeniería de Softwa 
 
- * Ingeniería de Software
+** ASESOR**
+   
+   Ing. Berrocal Navarro, Richard (orcid.org/0000-0001-8718-3150)
 
-## **ASESOR**
-## **RICHARD LEONARDO BERROCAL NAVARRO**
-## **ORCID: 0000-0001-8718-3150**
-
-## **INTEGRANDES EQUIPO GRUPO 1**
-    *Albino Gutiérrez, Carlos Manuel
+## **INTEGRANTES GRUPO 1**
+    *Albino Gutiérrez, Carlos Manuel(orcid.org/0000-0002-4419-712X)
     *Benito Cueva, Jenifer Mercedes (orcid.org/0000-0002-5044-3200)
-    *Borselli Meléndez, Mauro Ariel
+    *Borselli Meléndez, Mauro (orcid.org/0000-0001-8658-7815)
     *Gavino Carhuachin, Jimmy Giovany
-    *Guerra Pinedo, Pablo Cesar
+    *Guerra Pinedo, Pablo Cesar(orcid.org/0000-0002-2240-7026)
     *Jesús Chávez, Daniel Alonso
-    *Peña Rosillo, Diego Ernesto
+    *Peña Rosillo, Diego (orcid.org/0000-0002-6176-4675)
 
 ## **ÍNDICE**
 
