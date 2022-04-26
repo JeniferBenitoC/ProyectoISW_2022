@@ -6,11 +6,11 @@
   
    Ingeniería de Softwa 
 
-** ASESOR**
+**ASESOR**
    
    Ing. Berrocal Navarro, Richard (orcid.org/0000-0001-8718-3150)
 
-## **INTEGRANTES GRUPO 1**
+**INTEGRANTES GRUPO 1**
     *Albino Gutiérrez, Carlos Manuel(orcid.org/0000-0002-4419-712X)
     *Benito Cueva, Jenifer Mercedes (orcid.org/0000-0002-5044-3200)
     *Borselli Meléndez, Mauro (orcid.org/0000-0001-8658-7815)
