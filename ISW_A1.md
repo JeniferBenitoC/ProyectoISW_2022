@@ -2,8 +2,7 @@
 
 # **"Sistema de información para mejorar la gestión de información en la atención por Telemedicina para el Centro de Salud Comas"**
 
-## **EXPERIENCIA CURRICULAR**
-
+## **EXPERIENCI CURRICULAR**
 #Ingenería de Software 
 
 ## **ASESOR**
