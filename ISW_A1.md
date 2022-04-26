@@ -2,6 +2,23 @@
 
 # **"Sistema de información para mejorar la gestión de información en la atención por Telemedicina para el Centro de Salud Comas"**
 
+## **EXPERIENCIA CURRICULAR**
+
+#Ingenería de Software 
+
+## **ASESOR**
+## **RICHARD LEONARDO BERROCAL NAVARRO**
+## **ORCID: 0000-0001-8718-3150**
+
+## **INTEGRANDES EQUIPO GRUPO 1**
+    *Albino Gutiérrez, Carlos Manuel
+    *Benito Cueva, Jenifer Mercedes (orcid.org/0000-0002-5044-3200)
+    *Borselli Meléndez, Mauro Ariel
+    *Gavino Carhuachin, Jimmy Giovany
+    *Guerra Pinedo, Pablo Cesar
+    *Jesús Chávez, Daniel Alonso
+    *Peña Rosillo, Diego Ernesto
+
 ## **ÍNDICE**
 
 I.	ASPECTOS DE LA ORGANIZACIÓN
@@ -142,9 +159,12 @@ Se utilizó para la elaboración de los cálculos de estimación del proyecto y 
 
 Es una herramienta de diseño y análisis UML integral para UML, SysML, BPMN y muchas otras tecnologías. Abarca el desarrollo de software desde la recopilación de requisitos hasta las etapas de análisis, modelos de diseño, pruebas y mantenimiento.
 
-* SQL Server 2019
+* •	MySQL
 
-Microsoft SQL Server es un sistema de gestión de bases de datos relacionales (RDBMS) que admite una amplia variedad de aplicaciones de procesamiento de transacciones, inteligencia empresarial y análisis en entornos informáticos corporativos. Microsoft SQL Server es una de las tres tecnologías de bases de datos líderes del mercado, junto con Oracle Database y DB2 de IBM.
+MySQL es el sistema de gestión de bases de datos relacional más extendido en la actualidad al estar basada en código abierto.
+
+MySQL es un sistema de gestión de bases de datos que cuenta con una doble licencia. Por una parte, es de código abierto, pero por otra, cuenta con una versión comercial gestionada por la compañía Oracle.
+
 
 * Neatbeans
 
@@ -158,9 +178,12 @@ Como buen repositorio, el código de los proyectos que sean abiertos puede ser d
 
 #### **1.5.4. Hardware**
 
+![image](https://user-images.githubusercontent.com/81536639/165401596-948baea4-a559-4a08-9fd1-e4a547c3397d.png)
+
 
 #### **1.5.5. Cronograma de Actividades**
 
+![image](https://user-images.githubusercontent.com/81536639/165402335-1d8ccc75-57f4-47b2-b58e-68be1a8659b8.png)
 
 ## **II. ASPECTOS DEL NEGOCIO**
 
@@ -183,19 +206,39 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripcion**
 
-![image](https://user-images.githubusercontent.com/81536639/164130895-220ea080-bf60-4a37-8936-8248bec662ce.png)
-![image](https://user-images.githubusercontent.com/81536639/164130926-8b8902fa-c59c-4209-8b4c-b79ced9b716b.png)
+![image](https://user-images.githubusercontent.com/81536639/165402670-5809e934-0eca-44c3-ae87-e7888f347645.png)
 
-![image](https://user-images.githubusercontent.com/81536639/164131080-11ac3ecc-b779-446a-8768-80a2b5f8986b.png)
+![image](https://user-images.githubusercontent.com/81536639/165402736-4b16ae8e-5937-4c95-8065-f6f783bfc599.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165402813-b893682e-5ca7-4694-b88d-f735fb9e1eb4.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165402905-67314584-0586-43d7-8444-0c6668cdc95e.png)
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
-![image](https://user-images.githubusercontent.com/81536639/164131389-1523b01c-fe8a-452c-b782-199641ee9c6b.png)
+![image](https://user-images.githubusercontent.com/81536639/165403078-2232df3d-20d3-4b56-a8fb-42427d3c959d.png)
 
-![image](https://user-images.githubusercontent.com/81536639/164134244-b2cbeefb-f847-4268-89a4-46dec81be02c.png)
+![image](https://user-images.githubusercontent.com/81536639/165403303-5525a2fd-6a58-4cf9-88ba-0d3c449e2f7b.png)
 
-#### **3.1.3. Cuadro de relación de actores y su descripción, cuadro indicando**
+#### **3.1.3. Cuadro de relación de actores y su descri**
 
-![image](https://user-images.githubusercontent.com/81536639/164134382-07e14c89-9969-43b6-a990-b760756c589b.png)
+![image](https://user-images.githubusercontent.com/81536639/165403446-4dfc51ec-7fd1-4482-88d8-303b633352ce.png)
+
+![image](https://user-images.githubusercontent.com/81536639/165403460-c01e609c-2ff4-4ccf-b92e-a6aa6aa535ed.png)
 
 #### **3.1.4. Relación de casos de uso**
+
+![image](https://user-images.githubusercontent.com/81536639/165403544-c931824b-b4a4-4ce9-b4b9-68a69ebadd73.png)
+
+#### **3.1.5. Cuadro Modelo de Casos de Uso de Requerimientos**
+
+#### **3.1.6. Cuadro Plantilla de especificaciones de casos de uso**
+
+#### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
+
+#### **3.1.8. Modelo Conceptual de Clases**
+
+
+
+
+
