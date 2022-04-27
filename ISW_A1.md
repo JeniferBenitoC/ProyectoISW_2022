@@ -8,7 +8,7 @@
 
 **ASESOR**
    
-   Ing. Berrocal Navarro, Richard (orcid.org/0000-0001-8718-3150)
+   Ing. Berrocal Navarro, Richard (orcid.org/0000-0001-
 
 **INTEGRANTES GRUPO 1**
 
