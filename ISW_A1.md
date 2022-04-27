@@ -265,4 +265,5 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.8. Modelo Conceptual de Clases**
 
-![image](https://user-images.githubusercontent.com/81536639/165418384-a14f85cc-af95-4127-9574-7ccb5bffba41.png)
+![image](https://user-images.githubusercontent.com/81536639/165418944-1432b40f-ea04-446b-8fa8-6aecf3bf2e3c.png)
+
