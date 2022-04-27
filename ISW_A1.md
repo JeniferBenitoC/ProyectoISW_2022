@@ -240,6 +240,9 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.5. Cuadro Modelo de Casos de Uso de Requerimientos**
 
+![image](https://user-images.githubusercontent.com/81536639/165417579-ede0567e-27e6-4ae0-b69d-837a79911ea6.png)
+
+
 #### **3.1.6. Cuadro Plantilla de especificaciones de casos de uso**
 
 ![image](https://user-images.githubusercontent.com/81536639/165405748-f753e257-1cd3-44f4-b6f4-b23e4bda623c.png)
@@ -254,6 +257,7 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
+![Uploading image.png…]()
 
 
 #### **3.1.8. Modelo Conceptual de Clases**
