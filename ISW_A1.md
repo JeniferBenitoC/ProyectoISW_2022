@@ -257,12 +257,12 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/81536639/165418196-cc713697-2d39-4f6c-b4bd-ad966db17734.png)
 
+![image](https://user-images.githubusercontent.com/81536639/165418217-13fb8eb2-305a-412e-9547-3ace41887c98.png)
+![image](https://user-images.githubusercontent.com/81536639/165418267-fe41e42f-1294-4d13-b138-70be207d64a6.png)
+![image](https://user-images.githubusercontent.com/81536639/165418292-163d02fa-1609-410f-8663-4a96f674befa.png)
 
 #### **3.1.8. Modelo Conceptual de Clases**
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/81536639/165418384-a14f85cc-af95-4127-9574-7ccb5bffba41.png)
