@@ -4,7 +4,7 @@
 
 **EXPEERIENCIA CURRICULAR**
   
-   Ingeniería de Softwa 
+   Ingeniería de Sofware
 
 **ASESOR**
    
@@ -253,6 +253,8 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 ![image](https://user-images.githubusercontent.com/81536639/165406124-c924f88b-1b36-478d-901a-e6db1dcbdf00.png)
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
+
+
 
 #### **3.1.8. Modelo Conceptual de Clases**
 
