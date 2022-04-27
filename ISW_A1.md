@@ -167,7 +167,7 @@ Se utilizó para la elaboración de los cálculos de estimación del proyecto y 
 
 Es una herramienta de diseño y análisis UML integral para UML, SysML, BPMN y muchas otras tecnologías. Abarca el desarrollo de software desde la recopilación de requisitos hasta las etapas de análisis, modelos de diseño, pruebas y mantenimiento.
 
-* •	MySQL
+* MySQL
 
 MySQL es el sistema de gestión de bases de datos relacional más extendido en la actualidad al estar basada en código abierto.
 
@@ -266,5 +266,6 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.8. Modelo Conceptual de Clases**
 
-![image](https://user-images.githubusercontent.com/81536639/165418944-1432b40f-ea04-446b-8fa8-6aecf3bf2e3c.png)
+![image](https://user-images.githubusercontent.com/81536639/165426476-657841ad-6281-4b20-8cfa-e5c659c472e2.png)
+
 
