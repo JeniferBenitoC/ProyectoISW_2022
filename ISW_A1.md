@@ -224,7 +224,8 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
-![image](https://user-images.githubusercontent.com/81536639/165403078-2232df3d-20d3-4b56-a8fb-42427d3c959d.png)
+![image](https://user-images.githubusercontent.com/81536639/165419303-0034ac32-6b7d-4ce5-aae6-c1ac81ee152b.png)
+
 
 ![image](https://user-images.githubusercontent.com/81536639/165403303-5525a2fd-6a58-4cf9-88ba-0d3c449e2f7b.png)
 
