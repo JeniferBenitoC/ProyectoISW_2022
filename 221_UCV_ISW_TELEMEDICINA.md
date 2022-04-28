@@ -26,7 +26,17 @@
     *Jesús Chávez Daniel Alonso (orcid.org/0000-0002-4523-7146) – 100 % de Participación
     
     *Peña Rosillo, Diego (orcid.org/0000-0002-6176-4675) – 100 % de Participación
-  
+
+## **INTRODUCC**
+
+En la actualidad y aún más después de la pandemia por la Covid 19 se ha dado mayor relevancia a la tecnología como una forma de brindar servicios innovadores generando beneficios para las organizaciones como para sus usuarios.
+
+A raíz de la pandemia por la Covid 19, el sector salud reflejo la gran importancia que siempre debió tener tanto a nivel nacional y mundial además del incremento en la demanda de atención de sus usuarios en la modalidad de Telemedicina que fue la primera medida que se tomó ante el confinamiento; este fenómeno no fue ajeno al centro de salud comas aumentando su número de pacientes y no dándose abasto en la manipulación de datos e información que manejan. 
+
+En el Centro de Salud Comas, la mayor parte de los procesos se realizan aún de manera manual en Telemedicina. Reflejándose la necesidad de que puedan administrar mejor su información y se hace necesario implementar un sistema de información que pueda automatizar los procesos que se llevan a cabo en Telemedicina de manera que estos sean más agiles y se tenga información que pueda perdurar en el tiempo.
+
+En los últimos años las organizaciones del sector salud han entrado en el proceso de transformación digital apoyándose en los sistemas de información para generar una mejor atención del usuario. Ante esta situación planteamos como acción de mejora un “Sistema de información para mejorar la gestión de información en la atención por Telemedicina para el Centro de Salud Comas.”
+
 
 ## **ÍNDICE**
 
