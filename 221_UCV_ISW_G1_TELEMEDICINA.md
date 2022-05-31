@@ -70,8 +70,8 @@ I.	ASPECTOS DE LA ORGANIZACIÓN
 II.	ASPECTOS DEL NEGOCIO
 
     2.1.	Problemática actual o Análisis Situacional	
-
-III.	METODOLOGÍA	
+    
+III.METODOLOGÍA	
 
     3.1.	Modelo de Requerimientos	
 
@@ -90,6 +90,18 @@ III.	METODOLOGÍA
         3.1.7.	Cuadro Matriz de trazabilidad de los requerimientos y casos de uso	
 
         3.1.8.	Modelo Conceptual de Clases	
+        
+   3.2. Análisis Orientado a Objetos
+        3.2.1. Modelo de Análisis
+          3.2.1.1. Diagrama de Análisis de Clases
+          3.2.1.2. Diagramas de Secuencia y Colaboración de Análisis
+        3.2.2. Lista de Clases de Interfaz
+        3.2.3. Lista de Clases de Control
+        3.2.4. Lista de Clases de Entidades
+        3.2.5. Modelo Lógico de Clases
+   3.3. Diseño Orientado a Objetos
+        3.3.1. Modelo Físico
+          3.3.1.1. Creación de Esquema y Tablas
 
 
 ## **I. ASPECTOS DE LA ORGANIZACIÓN**
