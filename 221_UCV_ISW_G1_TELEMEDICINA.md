@@ -343,51 +343,82 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
   3.3.2. creación de Esquema y Tabla
   
   CREATE TABLE `usuarios` (
+  
   `id_usuario` int(11) NOT NULL,
+  
   `nombre` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `username` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `contraseña` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `perfil` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `correo_electronico` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `telefono` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `estado` varchar(10) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Activo'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='Usuarios del sistema';
+  
+) 
 
-CREATE TABLE `medicos` (
-  `id_medico` int(11) NOT NULL,
+CREATE TABLE `medicos` 
+
+  `id_medico` int(11) NOT NULL
+  
   `nombre_medico` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  
   `cmp` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `correo_medico` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `telefono_medico` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `id_especialidad` int(11) NOT NULL,
+  
   `estado_medico` varchar(50) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Activo'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='Medicos de la clinica';
+  
+) 
 
-CREATE TABLE `historiaclinica` (
+CREATE TABLE `historiaclinica` 
+
   `id_historiaclinica` int(11) NOT NULL,
+  
   `antec_familiares` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  
   `antec_personales` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  
   `estado_historia` varchar(50) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Activo'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  
+) 
 
 CREATE TABLE `paciente` (
+
   `id_paciente` int(11) NOT NULL,
+  
   `nombre_paciente` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `dni` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `telefono_paciente` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  
   `direccion_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  
   `distrito_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  
   `id_historiaclinica` int(11) NOT NULL,
+  
   `estado_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  
+) 
   
   3.3.2. Estructura Modular del SWOO
   
    3.3.2.1. Diseño de Ventanas
    
-   ![image](https://user-images.githubusercontent.com/81536639/171311789-3dea0cdc-768e-4bf2-8be8-b592d1f96ff3.png)
+  ![image](https://user-images.githubusercontent.com/81536639/171311789-3dea0cdc-768e-4bf2-8be8-b592d1f96ff3.png
 
-![image](https://user-images.githubusercontent.com/81536639/171312020-ca16c672-ebb1-4e59-8791-2a763486b90c.png) 
+![image](https://user-images.githubusercontent.com/81536639/171312020-ca16c672-ebb1-4e59-8791-2a763486b90c.png)   
 
 ![image](https://user-images.githubusercontent.com/81536639/171312112-5c4eed6a-1dac-4af4-965e-124340692f02.png)
 
