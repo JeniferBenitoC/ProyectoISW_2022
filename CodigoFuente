@@ -1,8 +1,6 @@
-SISTEMA DE GESTIÓN DE TELEMEDICINA EN CENTRO DE SALUD COMAS
+#CÓDIGO FUENTE
 
-    
-      #* CLASE USUARIO
-    
+  ## * CLASE USUARIO
       package Modelo;
 
 /**
