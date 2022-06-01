@@ -303,4 +303,93 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 ![image](https://user-images.githubusercontent.com/81536639/165426476-657841ad-6281-4b20-8cfa-e5c659c472e2.png)
 
+3.2. Análisis Orientado a Objetos
+
+3.2.1. Modelo de Análisis
+
+  3.2.1.1. Diagrama de Análisis de Clases
+  
+  ![image](https://user-images.githubusercontent.com/81536639/171294752-8f5e6862-fe4f-4570-866c-9a4d00570beb.png)
+
+  3.2.1.2.  Diagramas de Secuencia
+  
+  ![image](https://user-images.githubusercontent.com/81536639/171295048-603c1167-dab8-4f7e-b23f-89a626566cf3.png)
+
+![image](https://user-images.githubusercontent.com/81536639/171295070-1b5e0dba-857b-450c-b496-c04faf4501b4.png)
+
+![image](https://user-images.githubusercontent.com/81536639/171295094-29b890e6-bf3b-4f4e-9923-010e10ed6bc0.png)
+
+3.2.2. Lista de Clases de Interfaz
+
+![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png)
+
+3.2.3. Lista de Clases de Control
+![image](https://user-images.githubusercontent.com/81536639/171310035-b35fb3d7-beae-4190-a065-b973fee57ae6.png)
+
+3.2.4. Lista de Clases de Entidad
+
+![image](https://user-images.githubusercontent.com/81536639/171303812-0a92146e-2aa6-4a90-86d0-9eb1d26fbc74.png)
+
+3.2.5. Modelo Lógico de Clases
+
+![image](https://user-images.githubusercontent.com/81536639/171310293-ea32f304-40f5-4c91-b1b4-8c9c00067b5c.png)
+
+3.3. DISEÑO ORIENTADO A OBJETOS
+
+  3.3.1.  Modelo Físico
+  
+  ![image](https://user-images.githubusercontent.com/81536639/171310727-e2272e97-811c-4698-8286-a05d8af84a5f.png)
+
+  3.3.2. creación de Esquema y Tabla
+  
+  CREATE TABLE `usuarios` (
+  `id_usuario` int(11) NOT NULL,
+  `nombre` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `username` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `contraseña` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `perfil` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `correo_electronico` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `telefono` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `estado` varchar(10) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Activo'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='Usuarios del sistema';
+
+CREATE TABLE `medicos` (
+  `id_medico` int(11) NOT NULL,
+  `nombre_medico` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `cmp` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `correo_medico` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `telefono_medico` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `id_especialidad` int(11) NOT NULL,
+  `estado_medico` varchar(50) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Activo'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='Medicos de la clinica';
+
+CREATE TABLE `historiaclinica` (
+  `id_historiaclinica` int(11) NOT NULL,
+  `antec_familiares` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `antec_personales` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `estado_historia` varchar(50) COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Activo'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+CREATE TABLE `paciente` (
+  `id_paciente` int(11) NOT NULL,
+  `nombre_paciente` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `dni` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `telefono_paciente` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `direccion_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `distrito_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `id_historiaclinica` int(11) NOT NULL,
+  `estado_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+  
+  3.3.2. Estructura Modular del SWOO
+  
+   3.3.2.1. Diseño de Ventanas
+   
+   ![image](https://user-images.githubusercontent.com/81536639/171311789-3dea0cdc-768e-4bf2-8be8-b592d1f96ff3.png)
+
+![image](https://user-images.githubusercontent.com/81536639/171312020-ca16c672-ebb1-4e59-8791-2a763486b90c.png) 
+
+![image](https://user-images.githubusercontent.com/81536639/171312112-5c4eed6a-1dac-4af4-965e-124340692f02.png)
+
+
 
