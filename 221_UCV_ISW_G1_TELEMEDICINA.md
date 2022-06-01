@@ -414,9 +414,9 @@ CREATE TABLE `paciente` (
   
   3.3.2. Estructura Modular del SWOO
   
-   3.3.2.1. Diseño de Ventanas
+   3.3.2.1. Diseño de Ventanaimage
    
-  ![image](https://user-images.githubusercontent.com/81536639/171311789-3dea0cdc-768e-4bf2-8be8-b592d1f96ff3.png
+   ![image](https://user-images.githubusercontent.com/81536639/171312959-f71a493f-c7c5-45e6-9ce0-2a45961ca4cf.png)
 
 ![image](https://user-images.githubusercontent.com/81536639/171312020-ca16c672-ebb1-4e59-8791-2a763486b90c.png)   
 
