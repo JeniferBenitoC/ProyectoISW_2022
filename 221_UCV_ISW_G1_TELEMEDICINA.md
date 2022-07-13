@@ -603,7 +603,7 @@ CREATE TABLE `paciente` (
 
 ![image](https://user-images.githubusercontent.com/81536639/178629552-e8b5e02e-616e-4b5c-a146-4a36ea86df4b.png)
 
-**  CONCLUSIONES
+## **CONCLUSIONES
 
 * Según la información recolectada en la investigación, se concluyó que se mejoraría la gestión de información en la atención por Telemedicina en el Centro de Salud Comas con el diseño del sistema de información propuesto en el presente proyecto
 
@@ -613,7 +613,7 @@ CREATE TABLE `paciente` (
 
 *  El implementar el sistema de información propuesto en el proyecto contribuirá a disminuir los retrasos en la atención de los pacientes gracias a la Telemedicina, cubriendo las brechas de demanda de atención.
 
-** BIBLIOGRF
+## **BIBLIOGRAFÍA
 
 Carrizo, D., y Manríquez, J. (2020). Evaluación del modelo de predicción de objetivos de sesión de captura de requisitos de software. Revista Ibérica De Sistemas y Tecnologías De Información, 654-667. https://www.proquest.com/scholarly-journals/evaluación-del-modelo-de-predicción-objetivos/docview/2388304543/se-2 
 
