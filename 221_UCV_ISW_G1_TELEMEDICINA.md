@@ -297,14 +297,11 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Registrar paciente|
 |**DESCRIPCIÓN**|El sistema debe permitir registrar datos del paciente y el motivo de su consulta por parte del médico o del técnico de enfermería.|
 
-
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 03|
 |**NOMBRE**|Generar Solicitud de Atención|
 |**DESCRIPCIÓN**|El sistema debe permitir generar una solicitud de atención especificando el motivo de la consulta y la especialidad requerida.|
-
-
 
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
@@ -312,13 +309,11 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Consultar Citas|
 |**DESCRIPCIÓN**|El sistema debe de permitir visualizar las citas pendientes en bandeja de entrada.|
 
-
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 05|
 |**NOMBRE**|Registrar atención|
 |**DESCRIPCIÓN**|El sistema debe de permitir registrar la evaluación realizada por el profesional médico en la historia clínica.|
-
 
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
@@ -326,13 +321,11 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Registrar FUAT|
 |**DESCRIPCIÓN**|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|
 
-
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 07|
 |**NOMBRE**|Generar receta médica|
 |**DESCRIPCIÓN**|El sistema debe permitir generar receta médica.|
-
 
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
@@ -340,13 +333,12 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Gestionar Citas|
 |**DESCRIPCIÓN**|El sistema debe permitir gestionar citas.|
 
-
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 09|
 |**NOMBRE**|Consultar medicamentos|
 |**DESCRIPCIÓN**|El sistema debe permitir consultar los medicamentos que posee el centro de salud.|
-##
+
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
