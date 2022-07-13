@@ -412,13 +412,49 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**PRE-CONDICIONES**|El paciente debe de haberse comunicado con el técnico de enfermería.|
 |**POST CONDICIONES**|Programación consultada.|
 
-![image](https://user-images.githubusercontent.com/81536639/165405816-0bf9bc0e-a883-416c-850b-31aff15e471b.png)
+|**NOMBRE**|**CUS 02 - Mantener datos de Paciente**|
+| :-: | :-: |
+|**TIPO**|Primario|
+|**ACTORES**|Técnico de Enfermería|
+|**CASOS DE USO RELACIONADOS**|Este caso de uso tiene una relación <<extends>> con el caso de uso Gestionar citas ya que el realizar la gestión de citas puede implicar también el mantenimiento de datos del paciente.|
+|**BREVE DESCRIPCIÓN**|El caso de uso permite al teleoperador telefónico el registro, actualización, eliminación de datos del paciente en el sistema.|
+|**REFERENCIAS**|RF02|
+|**PRE-CONDICIONES**|El paciente debe de haberse comunicado con el técnico de enfermería.|
+|**POST CONDICIONES**|Paciente registrado|
 
-![image](https://user-images.githubusercontent.com/81536639/165405977-4e8bb449-0da0-4485-b274-7c17dc159c68.png)
+|**NOMBRE**|**CUS 03 - Mantener solicitud de atención**|
+|**TIPO**|Primario|
+|**ACTORES**|Teleoperador Telefónico|
+|**CASOS DE USO RELACIONADOS**|Este caso de uso tiene una relación <<include>> con el caso de uso Gestionar citas ya que el realizar la gestión de citas siempre va a requerir mantenimiento de la solicitud de atención.|
+|**BREVE DESCRIPCIÓN**|El caso de uso permite al teleoperador telefónico el registro, actualización, eliminación de la solicitud de atención.|
+|**REFERENCIAS**|RF03|
+|**PRE-CONDICIONES**|El teleoperador telefónico debe de haber registrado los datos del paciente en el sistema.|
+|**POST CONDICIONES**|Solicitud de atención generada satisfactoriamente.|
 
-![image](https://user-images.githubusercontent.com/81536639/165406047-a1d1cb96-749f-4ef2-945b-44a21fc192b4.png)
 
-![image](https://user-images.githubusercontent.com/81536639/165406124-c924f88b-1b36-478d-901a-e6db1dcbdf00.png)
+|**NOMBRE**|**CUS 05 - Registrar evaluación**|
+| :-: | :-: |
+|**TIPO**|Primario|
+|**ACTORES**|Médico|
+|**CASOS DE USO RELACIONADOS**|Este caso de uso tiene una relación <<include>> con el caso de uso Consultar citas ya que el realizar el registro de evaluación se hace previamente al haber consultado las citas pendientes.|
+|**BREVE DESCRIPCIÓN**|El caso de uso permite al médico el registro de la evaluación realizada al paciente durante la atención por Telemedicina.|
+|**REFERENCIAS**|RF05|
+|**PRE-CONDICIONES**|El médico debe estar en el sistema y debe de haber realizado la evaluación del paciente durante la atención.|
+|**POST CONDICIONES**|Registro de evaluación realizada satisfactoriamente.|
+
+
+|**NOMBRE**|**CUS 07 - Generar receta médica**|
+| :-: | :-: |
+|**TIPO**|Primario|
+|**AUTOR**|Jenifer Mercedes Benito Cueva|
+|**ACTORES**|Médico|
+|**CASOS DE USO RELACIONADOS**||
+|**BREVE DESCRIPCIÓN**|El caso de uso permite al médico el poder generar la receta médica según lo requiera el paciente.|
+|**REFERENCIAS**|RF07|
+|**PRE-CONDICIONES**|Paciente evaluado que requiere tratamiento.|
+|**POST CONDICIONES**|Receta médica generada satisfactoriamente.|
+
+  
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
@@ -567,8 +603,7 @@ CREATE TABLE `paciente` (
 
 ![image](https://user-images.githubusercontent.com/81536639/178629552-e8b5e02e-616e-4b5c-a146-4a36ea86df4b.png)
 
-
-CONCLUSIONES Y RECOMENDACIONES
+**  CONCLUSIONES
 
 * Según la información recolectada en la investigación, se concluyó que se mejoraría la gestión de información en la atención por Telemedicina en el Centro de Salud Comas con el diseño del sistema de información propuesto en el presente proyecto
 
@@ -578,7 +613,7 @@ CONCLUSIONES Y RECOMENDACIONES
 
 *  El implementar el sistema de información propuesto en el proyecto contribuirá a disminuir los retrasos en la atención de los pacientes gracias a la Telemedicina, cubriendo las brechas de demanda de atención.
 
-BIBLIOGRAFIA
+** BIBLIOGRF
 
 Carrizo, D., y Manríquez, J. (2020). Evaluación del modelo de predicción de objetivos de sesión de captura de requisitos de software. Revista Ibérica De Sistemas y Tecnologías De Información, 654-667. https://www.proquest.com/scholarly-journals/evaluación-del-modelo-de-predicción-objetivos/docview/2388304543/se-2 
 
