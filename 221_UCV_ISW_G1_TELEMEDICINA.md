@@ -246,10 +246,10 @@ Como buen repositorio, el código de los proyectos que sean abiertos puede ser d
 
 #### **1.5.5. Cronograma de Actividades**
 
-|**CRONOGRAMA DE ACTIVIDADES**|
-| :-: |
-|**Listado de Actividades para desarrollar**|**SEMANAS**|
-||2|3|4|5|6|7|8|9|10|11|12|13|
+|*CRONOGRAMA DE ACTIVIDADES*||||||||||||||
+| :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+|*Listado de Actividades para desarrollar||SEMANAS*||||||||||||
+|||2|3|4|5|6|7|8|9|10|11|12|13|
 |1|Presentación de la propuesta Inicial del proyecto al representante del negocio.|x|x|||||||||||
 |2|Recolección de procesos en el negocio para implementarlos en el proyecto.||x|x||||||||||
 |3|Recolección de requerimientos a base de entrevista al responsable del negocio.|||x||||||||||
@@ -262,8 +262,6 @@ Como buen repositorio, el código de los proyectos que sean abiertos puede ser d
 |10|Diagrama de Componentes||||||||||x|||
 |11|Diagrama de Distribución|||||||||||x||
 |12|Entrega FINAL del proyecto al representante del negocio||||||||||||x|
-
-## **II. ASPECTOS DEL NEGOCIO**
 
 
 ### **2.1. Problemática actual o Análisis Situacional**
