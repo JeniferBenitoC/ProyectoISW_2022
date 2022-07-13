@@ -422,7 +422,9 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**PRE-CONDICIONES**|El paciente debe de haberse comunicado con el técnico de enfermería.|
 |**POST CONDICIONES**|Paciente registrado|
 
-|**NOMBRE**|**CUS 03 - Mantener solicitud de atención**|
+
+  |**NOMBRE**|**CUS 03 - Mantener solicitud de atención**|
+| :-: | :-: |
 |**TIPO**|Primario|
 |**ACTORES**|Teleoperador Telefónico|
 |**CASOS DE USO RELACIONADOS**|Este caso de uso tiene una relación <<include>> con el caso de uso Gestionar citas ya que el realizar la gestión de citas siempre va a requerir mantenimiento de la solicitud de atención.|
@@ -458,7 +460,7 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
-![image](https://user-images.githubusercontent.com/81536639/178641120-3ffb1064-77f9-450c-97cd-1295b140c5d9.png
+![image](https://user-images.githubusercontent.com/81536639/178641120-3ffb1064-77f9-450c-97cd-1295b140c5d9.png)
 
 ![image](https://user-images.githubusercontent.com/81536639/178641387-1668a5d6-2187-4ef0-ac50-9a43d1525e1d.png)
 
