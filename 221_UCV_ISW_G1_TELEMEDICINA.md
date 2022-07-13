@@ -221,7 +221,10 @@ Como buen repositorio, el código de los proyectos que sean abiertos puede ser d
 
 #### **1.5.4. Hardware**
 
-![image](https://user-images.githubusercontent.com/81536639/165401596-948baea4-a559-4a08-9fd1-e4a547c3397d.png)
+|*Estación|Especificaciones de Hardware*|
+| :-: | :-: |
+|*Servidor de base de datos y Aplicaciones*|<p>Procesador AMD Ryzen 5</p><p>Conexión a Red</p><p>Memoria RAM: 8 GB</p><p>Espacio Disco Duro: 256 GB</p>|
+|*Computadora Cliente*|<p>Conexión a Red</p><p>Memoria RAM: 2 GB</p><p>Procesador: Intel Dual Core o Equivalente</p>|
 
 
 #### **1.5.5. Cronograma de Actividades**
