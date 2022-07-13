@@ -422,5 +422,47 @@ CREATE TABLE `paciente` (
 
 ![image](https://user-images.githubusercontent.com/81536639/171312112-5c4eed6a-1dac-4af4-965e-124340692f02.png)
 
+3.3.3. DIAGRAMA DE LA CAPA DE PRESENTACION
+
+3.3.4. DIAGRAMAS DE LA CAPA DE NEGOCIO
+
+![image](https://user-images.githubusercontent.com/81536639/178629635-71fa866e-43b4-43a6-8f91-10247e722f6a.png)
+
+3.3.6. DIAGRAMA DE COMPONENTES
+
+![image](https://user-images.githubusercontent.com/81536639/178627034-dce792e6-a6c1-442e-b8a3-230f964db526.png)
+
+
+3.3.7. DIAGRAMAS DE DISTRIBUCION
+
+![image](https://user-images.githubusercontent.com/81536639/178629552-e8b5e02e-616e-4b5c-a146-4a36ea86df4b.png)
+
+
+CONCLUSIONES Y RECOMENDACIONES
+
+* Según la información recolectada en la investigación, se concluyó que se mejoraría la gestión de información en la atención por Telemedicina en el Centro de Salud Comas con el diseño del sistema de información propuesto en el presente proyecto
+
+*  Se concluyó, que el diseño del sistema de información propuesto en el presente proyecto permitirá automatizar los procesos realizados de forma manual en Telemedicina como el registro de evaluación médica, , la generación del FUAT y la receta médica.
+
+* El diseño del sistema de información propuesto en el presente proyecto atenderá las necesidades del personal de salud de salud y pacientes del Centro de Salud Comas.
+
+*  El implementar el sistema de información propuesto en el proyecto contribuirá a disminuir los retrasos en la atención de los pacientes gracias a la Telemedicina, cubriendo las brechas de demanda de atención.
+
+BIBLIOGRAFIA
+
+Carrizo, D., y Manríquez, J. (2020). Evaluación del modelo de predicción de objetivos de sesión de captura de requisitos de software. Revista Ibérica De Sistemas y Tecnologías De Información, 654-667. https://www.proquest.com/scholarly-journals/evaluación-del-modelo-de-predicción-objetivos/docview/2388304543/se-2 
+
+Dapena, M. y Machado, N. (2002). Modelo conceptual de un proyecto de software utilizando el razonamiento basado en casos. Ingeniería Industrial, 23(3), 7. https://dialnet.unirioja.es/servlet/articulo?codigo=
+
+Fortineau et al. (2019). Automated business rules and requirements to enrich product-centric information. Computers in Industry, 104, 22-33. Automated business rules and requirements to enrich product-centric information - ScienceDirect.
+
+Hernández, A. (2005). Requisitos a partir del negocio. Ingeniería Industrial, 26(1), 60-64. https://www.redalyc.org/pdf/3604/360433558007.pdf
+
+Kendall, K. y Kendall, J. (2011). Análisis y Diseño de Sistemas. http://cotana.informatica.edu.bo/downloads/ld-Analisis%20y%20Diseno%20de%20Sistemas_Kendall-8va.pdf
+
+Ortín, M. J., et al (2000). De los Procesos del Negocio a los Casos de Uso. Grupo de Investigación de Ingeniería del Software, 5(2), 1-13. https://es.slideshare.net/yamilagascon/del-modelo-del-negocio-al-modelo-de-requisitos
+
+Pérez, Y. (2008). Modelado de negocio y gestión de requisitos como etapas imprescindibles para el desarrollo de los sistemas automatizados de información. ACIMED, 17(3), 1-5. Modelado de negocio y gestión de requisitos como etapas imprescindibles para el desarrollo de los sistemas automatizados de información (sld.cu).
+
 
 
