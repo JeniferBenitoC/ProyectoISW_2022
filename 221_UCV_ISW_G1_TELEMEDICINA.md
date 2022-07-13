@@ -186,7 +186,24 @@ La vía de acceso principal es la Avenida Túpac Amaru, el medio de transporte c
     *Jesús Chávez, Daniel Alonso
     *Peña Rosillo, Diego Ernesto
 
-![image](https://user-images.githubusercontent.com/81536639/164138401-6bf8274c-7a3a-42cf-abb1-ced38615cfd8.png)
+|**Encargados**|**Cargo**|**Funciones**|
+| :-: | :-: | :-: |
+|Benito Cueva, Jenifer Mercedes|Jefe de Proyecto|Definir el perfil del equipo del proyecto y asignar las responsabilidades.|
+|||Definir los objetivos del proyecto|
+|||Analizar y manejar los riesgos|
+|||Administrar el recurso humanoHacer seguimiento y control oportuno|
+|||Presentar el proyecto al cliente|
+|||Negociar con el cliente|
+|Guerra Pinedo, Pablo Cesar, Jesús Chávez, Daniel Alonso|Desarrolladores|Diseñar, programar, implementar y mantener aplicaciones de escritorio.|
+|||Sólidos conocimientos en HTML, CSS, JavaScript|
+|||Determinar la estructura y deiseño de pagina web|
+|Gavino Carhuachin, Jimmy Giovany, Peña Rosillo, Diego Ernesto|Base de Datos|Diseño y modelo|
+|||Mantenimiento|
+|Albino Gutiérrez, Carlos Manuel|Analista de Sistemas|Identificar fallas y crear soluciones|
+|||planifica y ejecuta la instalación de nuevos sistemas|
+|Borselli Meléndez, Mauro Ariel|Ingeniero de Software|Elaborar modelos de implementación y despliegue|
+|||Gestión de configuración y cambios|
+|||Gestión de requisitos|
 
 #### **1.5.3. Software**
 
@@ -229,10 +246,10 @@ Como buen repositorio, el código de los proyectos que sean abiertos puede ser d
 
 #### **1.5.5. Cronograma de Actividades**
 
-|*CRONOGRAMA DE ACTIVIDADES*||||||||||||||
-| :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|*Listado de Actividades para desarrollar||SEMANAS*||||||||||||
-|||2|3|4|5|6|7|8|9|10|11|12|13|
+|**CRONOGRAMA DE ACTIVIDADES**|
+| :-: |
+|**Listado de Actividades para desarrollar**|**SEMANAS**|
+||2|3|4|5|6|7|8|9|10|11|12|13|
 |1|Presentación de la propuesta Inicial del proyecto al representante del negocio.|x|x|||||||||||
 |2|Recolección de procesos en el negocio para implementarlos en el proyecto.||x|x||||||||||
 |3|Recolección de requerimientos a base de entrevista al responsable del negocio.|||x||||||||||
@@ -267,30 +284,119 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripcion**
 
-![image](https://user-images.githubusercontent.com/81536639/165402670-5809e934-0eca-44c3-ae87-e7888f347645.png)
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 01|
+|**NOMBRE**|<p>Consultar programación de profesionales</p><p></p>|
+|**DESCRIPCIÓN**|El sistema debe permitir consultar la programación de turnos de los profesionales de la IPRESS por parte del técnico de enfermería.|
 
-![image](https://user-images.githubusercontent.com/81536639/165402736-4b16ae8e-5937-4c95-8065-f6f783bfc599.png)
 
-![image](https://user-images.githubusercontent.com/81536639/165402813-b893682e-5ca7-4694-b88d-f735fb9e1eb4.png)
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 02|
+|**NOMBRE**|Registrar paciente|
+|**DESCRIPCIÓN**|El sistema debe permitir registrar datos del paciente y el motivo de su consulta por parte del médico o del técnico de enfermería.|
 
-![image](https://user-images.githubusercontent.com/81536639/165402905-67314584-0586-43d7-8444-0c6668cdc95e.png)
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 03|
+|**NOMBRE**|Generar Solicitud de Atención|
+|**DESCRIPCIÓN**|El sistema debe permitir generar una solicitud de atención especificando el motivo de la consulta y la especialidad requerida.|
+
+
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 04|
+|**NOMBRE**|Consultar Citas|
+|**DESCRIPCIÓN**|El sistema debe de permitir visualizar las citas pendientes en bandeja de entrada.|
+
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 05|
+|**NOMBRE**|Registrar atención|
+|**DESCRIPCIÓN**|El sistema debe de permitir registrar la evaluación realizada por el profesional médico en la historia clínica.|
+
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 06|
+|**NOMBRE**|Registrar FUAT|
+|**DESCRIPCIÓN**|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|
+
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 07|
+|**NOMBRE**|Generar receta médica|
+|**DESCRIPCIÓN**|El sistema debe permitir generar receta médica.|
+
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 08|
+|**NOMBRE**|Gestionar Citas|
+|**DESCRIPCIÓN**|El sistema debe permitir gestionar citas.|
+
+
+|**REQUERIMIENTO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RF 09|
+|**NOMBRE**|Consultar medicamentos|
+|**DESCRIPCIÓN**|El sistema debe permitir consultar los medicamentos que posee el centro de salud.|
+##
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
-![image](https://user-images.githubusercontent.com/81536639/165419303-0034ac32-6b7d-4ce5-aae6-c1ac81ee152b.png)
+|**REQUERIMIENTO NO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RNF01|
+|**NOMBRE**|Usabilidad|
+|**DESCRIPCIÓN**|El sistema debe de ser de fácil manejo para los usuarios del sistema.|
 
+|**REQUERIMIENTO NO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RNF02|
+|**NOMBRE**|Base de datos|
+|**DESCRIPCIÓN**|El gestor de Base de Datos a utilizar será MySQL 5.1.|
 
-![image](https://user-images.githubusercontent.com/81536639/165403303-5525a2fd-6a58-4cf9-88ba-0d3c449e2f7b.png)
+|**REQUERIMIENTO NO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RNF03|
+|**NOMBRE**|Sistema Operativo|
+|**DESCRIPCIÓN**|El sistema que se implementará tendrá acceso al Sistema operativo Windows 2016. El sistema tendrá acceso a computadores de sistemas operativos de 32 bits y 64 bits
+
+|**REQUERIMIENTO NO FUNCIONAL**|
+|**IDENTIFICADOR**|RNF04|
+|**NOMBRE**|Persistencia|
+|**DESCRIPCIÓN**|Los datos almacenados por el Sistema deberán ser consistentes, no deben estar incompletos o fallidos, ni alterados.|
 
 #### **3.1.3. Cuadro de relación de actores y su descri**
 
-![image](https://user-images.githubusercontent.com/81536639/165403446-4dfc51ec-7fd1-4482-88d8-303b633352ce.png)
+|**ACTOR**|**RESPONSABILIDADES**|
+| :-: | :-: |
+|**Técnico en enfermería**|Actor de sistema encargado de registrar, actualizar y consultar la solicitud de atención por Telemedicina.|
+|**Médico**|Actor de sistema encargado de brindar atención por Telemedicina además de encargase del registro de los productos obtenidos durante la atención como el FUAT, la receta médica, etc.|
+|**Técnico de Farmacia**|Actor de sistema que valida la receta médica, mantiene la información del listado de medicamentos y realiza entrega de estos.|
 
-![image](https://user-images.githubusercontent.com/81536639/165403460-c01e609c-2ff4-4ccf-b92e-a6aa6aa535ed.png)
 
 #### **3.1.4. Relación de casos de uso**
 
-![image](https://user-images.githubusercontent.com/81536639/165403544-c931824b-b4a4-4ce9-b4b9-68a69ebadd73.png)
+|**Nro.**|**CASO DE USO**|**DESCRIPCIÓN**|
+| :-: | :-: | :-: |
+|**CUS01**|Consultar programación de profesionales|Este caso de uso se encarga de consultar la programación de profesionales a través del sistema permitiendo la asignación de pacientes por profesional.|
+|**CUS02**|Mantener datos de paciente|Este caso de uso se encarga de registrar, consultar, eliminar, etc. los datos del paciente según las necesidades del usuario del sistema.|
+|**CUS03**|Mantener solicitud de atención|Este caso de uso se encarga de consultar, actualizar o eliminar la solicitud de atención por el usuario de sistema que tiene acceso a esta.|
+|**CUS04**|Consultar citas de pacientes|Este caso de uso se encarga de consultar las citas de los pacientes asignados para atención al profesional.|
+|**CUS05**|Registrar evaluación|Este caso de uso se encarga de registrar la evaluación que ha realizado el médico en la historia clínica.|
+|**CUS06**|<p></p><p>Mantener FUAT</p>|Este caso de uso se encarga de consultar, actualizar o eliminar el Formato Único de Atención por Telemedicina según la necesidad del profesional.|
+|**CUS07**|Generar receta médica|Este caso de uso se encarga de generar la receta médica facilitando la emisión de esta y permitiendo brindar las indicaciones de forma eficiente a los pacientes.|
+|**CUS08**|Gestionar citas|Este caso de uso se encarga de gestionar las citas según como lo considere necesario el profesional que brinda la atención.|
+|**CUS09**|Mantener listado de medicamentos|Este caso de uso se encarga de consultar, registrar, actualizar el listado de medicamentos a través del sistema.|
+##
+##
 
 #### **3.1.5. Cuadro Modelo de Casos de Uso de Requerimientos**
 
