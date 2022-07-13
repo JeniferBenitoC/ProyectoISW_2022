@@ -229,7 +229,22 @@ Como buen repositorio, el código de los proyectos que sean abiertos puede ser d
 
 #### **1.5.5. Cronograma de Actividades**
 
-![image](https://user-images.githubusercontent.com/81536639/165402335-1d8ccc75-57f4-47b2-b58e-68be1a8659b8.png)
+|*CRONOGRAMA DE ACTIVIDADES*||||||||||||||
+| :-: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+|*Listado de Actividades para desarrollar||SEMANAS*||||||||||||
+|||2|3|4|5|6|7|8|9|10|11|12|13|
+|1|Presentación de la propuesta Inicial del proyecto al representante del negocio.|x|x|||||||||||
+|2|Recolección de procesos en el negocio para implementarlos en el proyecto.||x|x||||||||||
+|3|Recolección de requerimientos a base de entrevista al responsable del negocio.|||x||||||||||
+|4|Modelado de Requerimientos||||x|||||||||
+|5|Análisis Orientado a Objetos|||||x||||||||
+|6|Elaboración de prototipos de interfaces.||||||x|||||||
+|7|Inicio del diseño orientado a Objetos|||||||x||||||
+|8|Diagrama de la capa de presentación y de la capa de negocio||||||||x|||||
+|9|Diagrama de la Capa de Datos|||||||||x||||
+|10|Diagrama de Componentes||||||||||x|||
+|11|Diagrama de Distribución|||||||||||x||
+|12|Entrega FINAL del proyecto al representante del negocio||||||||||||x|
 
 ## **II. ASPECTOS DEL NEGOCIO**
 
@@ -296,11 +311,31 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
-![image](https://user-images.githubusercontent.com/81536639/165418196-cc713697-2d39-4f6c-b4bd-ad966db17734.png)
-
-![image](https://user-images.githubusercontent.com/81536639/165418217-13fb8eb2-305a-412e-9547-3ace41887c98.png)
-![image](https://user-images.githubusercontent.com/81536639/165418267-fe41e42f-1294-4d13-b138-70be207d64a6.png)
-![image](https://user-images.githubusercontent.com/81536639/165418292-163d02fa-1609-410f-8663-4a96f674befa.png)
+|*PROCESO DE NEGOCIO|ACTIVIDAD DE NEGOCIO|RESPONSABLE DEL NEGOCIO|REQUERIMIENTO||CASO DE USO||ACTORES*|
+| :-: | :-: | :-: | :-: | :- | :-: | :- | :-: |
+|<p>* </p><p>* </p><p>* </p><p>* </p><p>* </p><p>Proceso de registro y solicitud de Atención por Telemedicina</p>|Recepcionar llamada telefónica.|<p>* </p><p>*Técnico de Enfermería</p>|RF02|El sistema debe permitir informar sobre la cartera de servicios de Telemedicina.|<p>CUS01</p><p>* </p>|Consultar programación de profesionales|*Técnico de Enfermería*|
+||Ofertar la cartera de servicios de Telemedicina.|||||||
+||Consultar programación de profesionales de la IPRESS.||*RF03*|El sistema debe permitir consultar la programación de profesionales de la IPRESS.||||
+||<p>Registrar datos del paciente.</p><p> </p>||*RF04|El sistema debe permitir registrar datos del paciente.|CUS04*|Mantener datos de paciente||
+||||*RF05*|El sistema debe permitir filtrar datos del paciente.||||
+||||*RF08*|El sistema debe de permitir registrar la solicitud de atención en Telemedicina.||||
+||||||*CUS06*|Mantener solicitud de atención||
+||Registrar solicitud de atención en Telemedicina.|||||||
+||||*RF10*|El sistema de permitir enviar la solicitud de atención por Telemedicina.||||
+||Enviar solicitud de atención de Telemedicina.|||||||
+||||*RF11*|` `El sistema debe de permitir anular la solicitud de atención en Telemedicina.||||
+|<p>*Proceso de atención de Telemonitoreo</p><p>* </p>|Recepcionar solicitud de Telemonitoreo|<p>* </p><p>Teleoperador Telefónico</p>|RF13|El sistema debe permitir consultar la programación de pacientes.|CUS04|Consultar programación de pacientes|<p>* </p><p>* </p><p>* </p><p>* </p><p>Médico*</p>|
+||Llamar a pacientes según programación.|||||||
+||Recepcionar programación de pacientes|<p>* </p><p>* </p><p>* </p><p>* </p><p>*Médico*</p>||||||
+||Registrar evaluación e indicaciones en Historia Clínica.||*RF14|El sistema debe de permitir registrar la evaluación en la historia clínica.|CUS05*|Registrar evaluación||
+||Llenar Formato Único de Atención en Telemedicina||*RF15|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|CUS06*|Mantener FUAT||
+||Actualizar historia clínica||*RF16*|El sistema debe de permitir actualizar el formato único de atención en Telemedicina.||||
+||||*RF17*|El sistema debe permitir generar el formato único de atención en Telemedicina.||||
+||Emitir receta médica.||<p>*RF18</p><p> </p>|El sistema debe permitir generar receta médica.|CUS07*|Generar receta médica||
+|<p>*Proceso de entrega de medicamentos</p><p>* </p>|Consultar listado de medicamentos.|*Técnico de Farmacia|RF25|Consultar listado de medicamentos|CUS09|Mantener listado de medicamentos|Técnico de Farmacia*|
+||Validar receta médica||*RF26*|Actualizar listado de medicamentos.||||
+||Actualizar listado de medicamentos.|||||||
+||Entregar medicamentos.|||||||
 
 #### **3.1.8. Modelo Conceptual de Clases**
 
