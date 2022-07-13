@@ -295,11 +295,13 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Registrar paciente|
 |**DESCRIPCIÓN**|El sistema debe permitir registrar datos del paciente y el motivo de su consulta por parte del médico o del técnico de enfermería.|
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 03|
 |**NOMBRE**|Generar Solicitud de Atención|
 |**DESCRIPCIÓN**|El sistema debe permitir generar una solicitud de atención especificando el motivo de la consulta y la especialidad requerida.|
+
 
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
@@ -307,11 +309,13 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Consultar Citas|
 |**DESCRIPCIÓN**|El sistema debe de permitir visualizar las citas pendientes en bandeja de entrada.|
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 05|
 |**NOMBRE**|Registrar atención|
 |**DESCRIPCIÓN**|El sistema debe de permitir registrar la evaluación realizada por el profesional médico en la historia clínica.|
+
 
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
@@ -319,17 +323,20 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**|Registrar FUAT|
 |**DESCRIPCIÓN**|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 07|
 |**NOMBRE**|Generar receta médica|
 |**DESCRIPCIÓN**|El sistema debe permitir generar receta médica.|
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 08|
 |**NOMBRE**|Gestionar Citas|
 |**DESCRIPCIÓN**|El sistema debe permitir gestionar citas.|
+
 
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
@@ -395,7 +402,15 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.6. Cuadro Plantilla de especificaciones de casos de uso**
 
-![image](https://user-images.githubusercontent.com/81536639/165405748-f753e257-1cd3-44f4-b6f4-b23e4bda623c.png)
+|**NOMBRE**|**CUS 01 – Consultar programación de profesionales**|
+| :-: | :-: |
+|**TIPO**|Primario|
+|**ACTORES**|Técnico de Enfermería|
+|**CASOS DE USO RELACIONADOS**|Este caso de uso tiene una relación <<include>> con el caso de uso Gestionar citas y Mantener solicitud de atención ya que el realizar la gestión de citas se deberá primero consultar la programación de profesionales|
+|**BREVE DESCRIPCIÓN**|El caso de uso permite al técnico de enfermería la consulta de los turnos de los profesionales de IPRESS. |
+|**REFERENCIAS**|RF01|
+|**PRE-CONDICIONES**|El paciente debe de haberse comunicado con el técnico de enfermería.|
+|**POST CONDICIONES**|Programación consultada.|
 
 ![image](https://user-images.githubusercontent.com/81536639/165405816-0bf9bc0e-a883-416c-850b-31aff15e471b.png)
 
