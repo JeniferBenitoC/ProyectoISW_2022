@@ -311,31 +311,12 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
-|*PROCESO DE NEGOCIO|ACTIVIDAD DE NEGOCIO|RESPONSABLE DEL NEGOCIO|REQUERIMIENTO||CASO DE USO||ACTORES*|
-| :-: | :-: | :-: | :-: | :- | :-: | :- | :-: |
-|<p>* </p><p>* </p><p>* </p><p>* </p><p>* </p><p>Proceso de registro y solicitud de Atención por Telemedicina</p>|Recepcionar llamada telefónica.|<p>* </p><p>*Técnico de Enfermería</p>|RF02|El sistema debe permitir informar sobre la cartera de servicios de Telemedicina.|<p>CUS01</p><p>* </p>|Consultar programación de profesionales|*Técnico de Enfermería*|
-||Ofertar la cartera de servicios de Telemedicina.|||||||
-||Consultar programación de profesionales de la IPRESS.||*RF03*|El sistema debe permitir consultar la programación de profesionales de la IPRESS.||||
-||<p>Registrar datos del paciente.</p><p> </p>||*RF04|El sistema debe permitir registrar datos del paciente.|CUS04*|Mantener datos de paciente||
-||||*RF05*|El sistema debe permitir filtrar datos del paciente.||||
-||||*RF08*|El sistema debe de permitir registrar la solicitud de atención en Telemedicina.||||
-||||||*CUS06*|Mantener solicitud de atención||
-||Registrar solicitud de atención en Telemedicina.|||||||
-||||*RF10*|El sistema de permitir enviar la solicitud de atención por Telemedicina.||||
-||Enviar solicitud de atención de Telemedicina.|||||||
-||||*RF11*|` `El sistema debe de permitir anular la solicitud de atención en Telemedicina.||||
-|<p>*Proceso de atención de Telemonitoreo</p><p>* </p>|Recepcionar solicitud de Telemonitoreo|<p>* </p><p>Teleoperador Telefónico</p>|RF13|El sistema debe permitir consultar la programación de pacientes.|CUS04|Consultar programación de pacientes|<p>* </p><p>* </p><p>* </p><p>* </p><p>Médico*</p>|
-||Llamar a pacientes según programación.|||||||
-||Recepcionar programación de pacientes|<p>* </p><p>* </p><p>* </p><p>* </p><p>*Médico*</p>||||||
-||Registrar evaluación e indicaciones en Historia Clínica.||*RF14|El sistema debe de permitir registrar la evaluación en la historia clínica.|CUS05*|Registrar evaluación||
-||Llenar Formato Único de Atención en Telemedicina||*RF15|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|CUS06*|Mantener FUAT||
-||Actualizar historia clínica||*RF16*|El sistema debe de permitir actualizar el formato único de atención en Telemedicina.||||
-||||*RF17*|El sistema debe permitir generar el formato único de atención en Telemedicina.||||
-||Emitir receta médica.||<p>*RF18</p><p> </p>|El sistema debe permitir generar receta médica.|CUS07*|Generar receta médica||
-|<p>*Proceso de entrega de medicamentos</p><p>* </p>|Consultar listado de medicamentos.|*Técnico de Farmacia|RF25|Consultar listado de medicamentos|CUS09|Mantener listado de medicamentos|Técnico de Farmacia*|
-||Validar receta médica||*RF26*|Actualizar listado de medicamentos.||||
-||Actualizar listado de medicamentos.|||||||
-||Entregar medicamentos.|||||||
+![image](https://user-images.githubusercontent.com/81536639/178641120-3ffb1064-77f9-450c-97cd-1295b140c5d9.png
+
+![image](https://user-images.githubusercontent.com/81536639/178641387-1668a5d6-2187-4ef0-ac50-9a43d1525e1d.png)
+
+![image](https://user-images.githubusercontent.com/81536639/178641259-f6c30c3c-912c-479f-a649-adee5973793e.png)
+
 
 #### **3.1.8. Modelo Conceptual de Clases**
 
