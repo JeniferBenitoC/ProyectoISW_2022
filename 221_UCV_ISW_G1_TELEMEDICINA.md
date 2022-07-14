@@ -124,9 +124,8 @@ III.METODOLOGÍA
       3.3.5. Diagrama de la Capa de Datos 
       3.3.6. Diagramas de Componentes
       3.3.7. Diagramas de Distribución
-
-  IV. CONCLUSIONES Y RECOMENDACIONES
-  V. BIBLIOGRAFÍA
+IV. CONCLUSIONES
+V. REFERENCIAAS  BIBLIOGA
 
 
 “La salud de todas las personas, será expresión de un sustantivo desarrollo económico del fortalecimiento de la democracia y de los derechos y responsabilidades ciudadanas basadas en la ampliación de fuentes de trabajo estable y formal con mejoramiento de los ingresos, en la educación en valores orientados hacia la persona y la familia como unidad básica de la salud y desarrollo de la sociedad”.
@@ -287,87 +286,25 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 ### **3.1. Modelo de Requerimientos**
 
-#### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripcion**
+#### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripción**
 
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 01|
-|**NOMBRE**|Consultar programación de profesionales|
-|**DESCRIPCIÓN**|El sistema debe permitir consultar la programación de turnos de los profesionales de la IPRESS por parte del técnico de enfermería.|
+![image](https://user-images.githubusercontent.com/81536639/178926403-eee3710d-2eeb-4462-9959-d87e73ede1ce.png)
 
+![image](https://user-images.githubusercontent.com/81536639/178926479-d0ebea60-356b-4789-92f9-392c91cf773c.png)
 
+![image](https://user-images.githubusercontent.com/81536639/178926599-7e2c1614-0d59-4263-911f-3b4b9d480fff.png)
 
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 02|
-|**NOMBRE**|Registrar paciente|
-|**DESCRIPCIÓN**|El sistema debe permitir registrar datos del paciente y el motivo de su consulta por parte del médico o del técnico de enfermería.|
+![image](https://user-images.githubusercontent.com/81536639/178926685-d7f01146-350d-4a18-a0c6-5910dbfec459.png)
 
+![image](https://user-images.githubusercontent.com/81536639/178926797-b3948dc7-7e29-4a7f-af4f-6756b9ec23d0.png)
 
+![image](https://user-images.githubusercontent.com/81536639/178926890-38f9b6a0-8868-461e-b5ff-b262b811a2c4.png)
 
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 03|
-|**NOMBRE**|Generar Solicitud de Atención|
-|**DESCRIPCIÓN**|El sistema debe permitir generar una solicitud de atención especificando el motivo de la consulta y la especialidad requerida.|
+![image](https://user-images.githubusercontent.com/81536639/178926963-4ee6ee40-2eb0-453b-a2db-5eebf39554d6.png)
 
+![image](https://user-images.githubusercontent.com/81536639/178927162-7d2545a8-2b60-495a-a3ed-648b76ec71e3.png)
 
-
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 04|
-|**NOMBRE**|Consultar Citas|
-|**DESCRIPCIÓN**|El sistema debe de permitir visualizar las citas pendientes en bandeja de entrada.|
-
-
-
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 05|
-|**NOMBRE**|Registrar atención|
-|**DESCRIPCIÓN**|El sistema debe de permitir registrar la evaluación realizada por el profesional médico en la historia clínica.|
-
-
-
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 06|
-|**NOMBRE**|Registrar FUAT|
-|**DESCRIPCIÓN**|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|
-
-
-
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 07|
-|**NOMBRE**|Generar receta médica|
-|**DESCRIPCIÓN**|El sistema debe permitir generar receta médica.|
-
-
-
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 08|
-|**NOMBRE**|Gestionar Citas|
-|**DESCRIPCIÓN**|El sistema debe permitir gestionar citas.|
-
-
-
-|**REQUERIMIENTO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RF 09|
-|**NOMBRE**|Consultar medicamentos|
-|**DESCRIPCIÓN**|El sistema debe permitir consultar los medicamentos que posee el centro de salud.|
-##
-
-
-|**REQUERIMIENTO NO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RNF01|
-|**NOMBRE**|Usabilidad|
-|**DESCRIPCIÓN**|El sistema debe de ser de fácil manejo para los usuarios del sistema.|
-
-
+![image](https://user-images.githubusercontent.com/81536639/178927216-c4a6fa4e-32df-444e-969d-57c11a3231bc.png)
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
