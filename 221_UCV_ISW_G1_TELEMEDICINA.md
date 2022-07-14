@@ -434,7 +434,7 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 ## **3.2.2. Lista de Clases de Interfaz**
 
-![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png
+![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png)
   
 ## **3.2.3. Lista de Clases de Control**
   
@@ -525,16 +525,51 @@ CREATE TABLE `paciente` (
   `estado_paciente` varchar(100) COLLATE utf8_unicode_ci NOT NULL
   
 ) 
+  ### **3.3.2. ESTRUCTURA MODULAR DEL SWOO
   
-  3.3.2. Estructura Modular del SWOO
+  #### **3.3.2.1.  Diseño de Ventanas
   
-   3.3.2.1. Diseño de Ventanaimage
-   
-   ![image](https://user-images.githubusercontent.com/81536639/171312959-f71a493f-c7c5-45e6-9ce0-2a45961ca4cf.png)
+  **VENTANA DE LOGIN**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178932001-ae5a86e3-a3aa-45fb-9e48-63daec2ca73e.png)
 
-![image](https://user-images.githubusercontent.com/81536639/171312020-ca16c672-ebb1-4e59-8791-2a763486b90c.png)   
+  **VENTANA PRINCIPAL**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178933819-94f68c07-12e8-461a-a60e-777cfd0ba4d2.png)
 
-![image](https://user-images.githubusercontent.com/81536639/171312112-5c4eed6a-1dac-4af4-965e-124340692f02.png)
+  **VENTANA  USUARIOS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178934041-4b8ebb19-a58e-4e4d-896d-38e4dac7a98b.png)
+
+  **VENTANA MEDICOS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178934266-735b6040-5534-4305-ac2d-3fe1cf652cc7.png)
+
+  **VENTANA RECETA **
+  ![image](https://user-images.githubusercontent.com/81536639/178934420-92787ae0-80aa-4512-8f42-db8e22b3dae0.png)
+  
+  **VENTANA CITAS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178934593-5eeeec68-368a-4b53-bcf0-32d5ae8260e3.png)
+
+  **VENTANA GESTIÓN DE CITAS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178934880-f6eba926-0b69-4065-b721-a65283292f93.png)
+
+  **VENTANA ATENCIÓN DE CITAS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178935097-a20d368f-066f-4b8e-a45b-90ea35aa6084.png)
+  
+  **VENTANA NOSOTROS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178935284-c5f7c5a0-ccfe-4d4c-98cf-f0ee6629dda2.png)
+
+  **VENTANA BOLETA DE PAGO**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178935210-06c95016-33d5-40da-9a45-69bdf1a12173.png)
+
+  
+  ### **3.3.2.2. Diseño de Reportes
 
 3.3.3. DIAGRAMA DE LA CAPA DE PRESENTACION
 
