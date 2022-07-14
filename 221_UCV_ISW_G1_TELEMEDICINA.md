@@ -125,8 +125,8 @@ III.METODOLOGÍA
       3.3.6. Diagramas de Componentes
       3.3.7. Diagramas de Distribución
 
-  CONCLUSIONES Y RECOMENDACIONES
-  BIBLIOGRAFÍA
+  IV. CONCLUSIONES Y RECOMENDACIONES
+  V. BIBLIOGRAFÍA
 
 
 “La salud de todas las personas, será expresión de un sustantivo desarrollo económico del fortalecimiento de la democracia y de los derechos y responsabilidades ciudadanas basadas en la ampliación de fuentes de trabajo estable y formal con mejoramiento de los ingresos, en la educación en valores orientados hacia la persona y la familia como unidad básica de la salud y desarrollo de la sociedad”.
