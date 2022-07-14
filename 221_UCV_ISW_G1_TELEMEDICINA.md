@@ -572,6 +572,8 @@ CREATE TABLE `paciente` (
   ### **3.3.2.2. Diseño de Reportes
 
 3.3.3. DIAGRAMA DE LA CAPA DE PRESENTACION
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178939784-bbf21f14-b1c5-4130-8816-10356d1d97dc.png)
 
 3.3.4. DIAGRAMAS DE LA CAPA DE NEGOCIO
 
