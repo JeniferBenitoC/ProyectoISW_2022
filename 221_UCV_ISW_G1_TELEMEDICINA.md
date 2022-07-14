@@ -308,28 +308,13 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
-|**REQUERIMIENTO NO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RNF01|
-|**NOMBRE**|Usabilidad|
-|**DESCRIPCIÓN**|El sistema debe de ser de fácil manejo para los usuarios del sistema.|
+![image](https://user-images.githubusercontent.com/81536639/178927680-620cb8d9-16d4-4046-a237-8194b9924bf7.png)
 
-|**REQUERIMIENTO NO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RNF02|
-|**NOMBRE**|Base de datos|
-|**DESCRIPCIÓN**|El gestor de Base de Datos a utilizar será MySQL 5.1.|
+![image](https://user-images.githubusercontent.com/81536639/178927745-789b9fcc-dea4-48a3-bb01-3a27d216558d.png)
 
-|**REQUERIMIENTO NO FUNCIONAL**|
-| :-: |
-|**IDENTIFICADOR**|RNF03|
-|**NOMBRE**|Sistema Operativo|
-|**DESCRIPCIÓN**|El sistema que se implementará tendrá acceso al Sistema operativo Windows 2016. El sistema tendrá acceso a computadores de sistemas operativos de 32 bits y 64 bits
+![image](https://user-images.githubusercontent.com/81536639/178927998-ca6161c7-e870-4934-9f98-a7cfce695518.png)
 
-|**REQUERIMIENTO NO FUNCIONAL**|
-|**IDENTIFICADOR**|RNF04|
-|**NOMBRE**|Persistencia|
-|**DESCRIPCIÓN**|Los datos almacenados por el Sistema deberán ser consistentes, no deben estar incompletos o fallidos, ni alterados.|
+![image](https://user-images.githubusercontent.com/81536639/178928120-85e48908-ff32-4931-853b-d27f37705873.png)
 
 #### **3.1.3. Cuadro de relación de actores y su descri**
 
@@ -417,8 +402,7 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**PRE-CONDICIONES**|Paciente evaluado que requiere tratamiento.|
 |**POST CONDICIONES**|Receta médica generada satisfactoriamente.|
 
-  
-
+ 
 #### **3.1.7. Cuadro Matriz de trazabilidad de los requerimientos y casos de uso**
 
 ![image](https://user-images.githubusercontent.com/81536639/178641120-3ffb1064-77f9-450c-97cd-1295b140c5d9.png)
@@ -432,15 +416,15 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 ![image](https://user-images.githubusercontent.com/81536639/165426476-657841ad-6281-4b20-8cfa-e5c659c472e2.png)
 
-3.2. Análisis Orientado a Objetos
+##  **3.2. Ánalisis Orientado a Objetos**
 
-3.2.1. Modelo de Análisis
+##  **3.2.1. Modelos de Ánalisis**
 
-  3.2.1.1. Diagrama de Análisis de Clases
+  ### **3.2.1.1. Diagrama de Ánalisis de Clases**
   
   ![image](https://user-images.githubusercontent.com/81536639/171294752-8f5e6862-fe4f-4570-866c-9a4d00570beb.png)
 
-  3.2.1.2.  Diagramas de Secuencia
+  ### **3.2.1.2. Diagramas de Secuencia
   
   ![image](https://user-images.githubusercontent.com/81536639/171295048-603c1167-dab8-4f7e-b23f-89a626566cf3.png)
 
@@ -448,22 +432,23 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 ![image](https://user-images.githubusercontent.com/81536639/171295094-29b890e6-bf3b-4f4e-9923-010e10ed6bc0.png)
 
-3.2.2. Lista de Clases de Interfaz
+## **3.2.2. Lista de Clases de Interfaz**
 
-![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png)
-
-3.2.3. Lista de Clases de Control
+![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png
+  
+## **3.2.3. Lista de Clases de Control**
+  
 ![image](https://user-images.githubusercontent.com/81536639/171310035-b35fb3d7-beae-4190-a065-b973fee57ae6.png)
 
-3.2.4. Lista de Clases de Entidad
+## **3.2.4. Lista de Claes de Entidades**
 
 ![image](https://user-images.githubusercontent.com/81536639/171303812-0a92146e-2aa6-4a90-86d0-9eb1d26fbc74.png)
 
-3.2.5. Modelo Lógico de Clases
+## **3.2.5. Modelo Logico de Clases**
 
 ![image](https://user-images.githubusercontent.com/81536639/171310293-ea32f304-40f5-4c91-b1b4-8c9c00067b5c.png)
 
-3.3. DISEÑO ORIENTADO A OBJETOS
+# **DISEÑO ORIENTADO A OBJETOS
 
   3.3.1.  Modelo Físico
   
