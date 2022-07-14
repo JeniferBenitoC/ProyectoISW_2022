@@ -424,8 +424,8 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
   
   ![image](https://user-images.githubusercontent.com/81536639/171294752-8f5e6862-fe4f-4570-866c-9a4d00570beb.png)
 
-  ### **3.2.1.2. Diagramas de Secuencia
-  
+  ### **3.2.1.2. Diagramas de Secuencia**
+      
   ![image](https://user-images.githubusercontent.com/81536639/171295048-603c1167-dab8-4f7e-b23f-89a626566cf3.png)
 
 ![image](https://user-images.githubusercontent.com/81536639/171295070-1b5e0dba-857b-450c-b496-c04faf4501b4.png)
