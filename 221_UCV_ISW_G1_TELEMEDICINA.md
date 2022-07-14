@@ -112,14 +112,21 @@ III.METODOLOGÍA
    
         3.3.1. Modelo Físico
         
-          3.3.1.1. Creación de Esquema y Tablas
+          3.3.1.1. Creación de Esquema y 
           
+       3.3.2. Estructura Modular del SWOO   
+        
+          3.3.2.1. Diseño de Ventanas
+         3.3.2.2. Diseño de Reportes 
 
+      3.3.3. Diagrama de la capa presentación 
+      3.3.4. Diagramas de la Capa de Negocio
+      3.3.5. Diagrama de la Capa de Datos 
+      3.3.6. Diagramas de Componentes
+      3.3.7. Diagramas de Distribución
 
-## **I. ASPECTOS DE LA ORGANIZACIÓN**
-
-
-### **1.1. VISIÓN**
+  CONCLUSIONES Y RECOMENDACIONES
+  BIBLIOGRAFÍA
 
 
 “La salud de todas las personas, será expresión de un sustantivo desarrollo económico del fortalecimiento de la democracia y de los derechos y responsabilidades ciudadanas basadas en la ampliación de fuentes de trabajo estable y formal con mejoramiento de los ingresos, en la educación en valores orientados hacia la persona y la familia como unidad básica de la salud y desarrollo de la sociedad”.
@@ -285,8 +292,9 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 01|
-|**NOMBRE**|<p>Consultar programación de profesionales</p><p></p>|
+|**NOMBRE**|Consultar programación de profesionales|
 |**DESCRIPCIÓN**|El sistema debe permitir consultar la programación de turnos de los profesionales de la IPRESS por parte del técnico de enfermería.|
+
 
 
 |**REQUERIMIENTO FUNCIONAL**|
@@ -296,11 +304,13 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**DESCRIPCIÓN**|El sistema debe permitir registrar datos del paciente y el motivo de su consulta por parte del médico o del técnico de enfermería.|
 
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 03|
 |**NOMBRE**|Generar Solicitud de Atención|
 |**DESCRIPCIÓN**|El sistema debe permitir generar una solicitud de atención especificando el motivo de la consulta y la especialidad requerida.|
+
 
 
 |**REQUERIMIENTO FUNCIONAL**|
@@ -310,11 +320,13 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**DESCRIPCIÓN**|El sistema debe de permitir visualizar las citas pendientes en bandeja de entrada.|
 
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 05|
 |**NOMBRE**|Registrar atención|
 |**DESCRIPCIÓN**|El sistema debe de permitir registrar la evaluación realizada por el profesional médico en la historia clínica.|
+
 
 
 |**REQUERIMIENTO FUNCIONAL**|
@@ -324,11 +336,13 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**DESCRIPCIÓN**|El sistema debe de permitir registrar el formato único de atención en Telemedicina.|
 
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 07|
 |**NOMBRE**|Generar receta médica|
 |**DESCRIPCIÓN**|El sistema debe permitir generar receta médica.|
+
 
 
 |**REQUERIMIENTO FUNCIONAL**|
@@ -338,11 +352,21 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**DESCRIPCIÓN**|El sistema debe permitir gestionar citas.|
 
 
+
 |**REQUERIMIENTO FUNCIONAL**|
 | :-: |
 |**IDENTIFICADOR**|RF 09|
 |**NOMBRE**|Consultar medicamentos|
 |**DESCRIPCIÓN**|El sistema debe permitir consultar los medicamentos que posee el centro de salud.|
+##
+
+
+|**REQUERIMIENTO NO FUNCIONAL**|
+| :-: |
+|**IDENTIFICADOR**|RNF01|
+|**NOMBRE**|Usabilidad|
+|**DESCRIPCIÓN**|El sistema debe de ser de fácil manejo para los usuarios del sistema.|
+
 
 
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
@@ -605,7 +629,7 @@ CREATE TABLE `paciente` (
 
 ![image](https://user-images.githubusercontent.com/81536639/178629552-e8b5e02e-616e-4b5c-a146-4a36ea86df4b.png)
 
-## **CONCLUSIONES
+##  **CONCLUSIONES**
 
 * Según la información recolectada en la investigación, se concluyó que se mejoraría la gestión de información en la atención por Telemedicina en el Centro de Salud Comas con el diseño del sistema de información propuesto en el presente proyecto
 
@@ -615,21 +639,22 @@ CREATE TABLE `paciente` (
 
 *  El implementar el sistema de información propuesto en el proyecto contribuirá a disminuir los retrasos en la atención de los pacientes gracias a la Telemedicina, cubriendo las brechas de demanda de atención.
 
-## **BIBLIOGRAFÍA
-
-Carrizo, D., y Manríquez, J. (2020). Evaluación del modelo de predicción de objetivos de sesión de captura de requisitos de software. Revista Ibérica De Sistemas y Tecnologías De Información, 654-667. https://www.proquest.com/scholarly-journals/evaluación-del-modelo-de-predicción-objetivos/docview/2388304543/se-2 
-
-Dapena, M. y Machado, N. (2002). Modelo conceptual de un proyecto de software utilizando el razonamiento basado en casos. Ingeniería Industrial, 23(3), 7. https://dialnet.unirioja.es/servlet/articulo?codigo=
-
-Fortineau et al. (2019). Automated business rules and requirements to enrich product-centric information. Computers in Industry, 104, 22-33. Automated business rules and requirements to enrich product-centric information - ScienceDirect.
-
-Hernández, A. (2005). Requisitos a partir del negocio. Ingeniería Industrial, 26(1), 60-64. https://www.redalyc.org/pdf/3604/360433558007.pdf
-
-Kendall, K. y Kendall, J. (2011). Análisis y Diseño de Sistemas. http://cotana.informatica.edu.bo/downloads/ld-Analisis%20y%20Diseno%20de%20Sistemas_Kendall-8va.pdf
-
-Ortín, M. J., et al (2000). De los Procesos del Negocio a los Casos de Uso. Grupo de Investigación de Ingeniería del Software, 5(2), 1-13. https://es.slideshare.net/yamilagascon/del-modelo-del-negocio-al-modelo-de-requisitos
-
-Pérez, Y. (2008). Modelado de negocio y gestión de requisitos como etapas imprescindibles para el desarrollo de los sistemas automatizados de información. ACIMED, 17(3), 1-5. Modelado de negocio y gestión de requisitos como etapas imprescindibles para el desarrollo de los sistemas automatizados de información (sld.cu).
+## **BIBLIOGRAFÍA**
+  
+  * Carrizo, D., y Manríquez, J. (2020). Evaluación del modelo de predicción de objetivos de sesión de captura de requisitos de software. Revista Ibérica De Sistemas y Tecnologías De Información, 654-667. https://www.proquest.com/scholarly-journals/evaluación-del-modelo-de-predicción-objetivos/docview/2388304543/se-2 
+  
+  *  Dapena, M. y Machado, N. (2002). Modelo conceptual de un proyecto de software utilizando el razonamiento basado en casos. Ingeniería Industrial, 23(3), 7. https://dialnet.unirioja.es/servlet/articulo?codigo=4786604
+  
+  *  Fortineau et al. (2019). Automated business rules and requirements to enrich product-centric information. Computers in Industry, 104, 22-33. Automated business rules and requirements to enrich product-centric information - ScienceDirect.
+  
+  *  Hernández, A. (2005). Requisitos a partir del negocio. Ingeniería Industrial, 26(1), 60-64. https://www.redalyc.org/pdf/3604/360433558007.pdf
+  
+  * Kendall, K. y Kendall, J. (2011). Análisis y Diseño de Sistemas. http://cotana.informatica.edu.bo/downloads/ld-Analisis%20y%20Diseno%20de%20Sistemas_Kendall-8va.pdf
+  
+ *  Ortín, M. J., et al (2000). De los Procesos del Negocio a los Casos de Uso. Grupo de Investigación de Ingeniería del Software, 5(2), 1-13. https://es.slideshare.net/yamilagascon/del-modelo-del-negocio-al-modelo-de-requisitos
+  
+*  Pérez, Y. (2008). Modelado de negocio y gestión de requisitos como etapas imprescindibles para el desarrollo de los sistemas automatizados de información. ACIMED, 17(3), 1-5. Modelado de negocio y gestión de requisitos como etapas imprescindibles para el desarrollo de los sistemas automatizados de información (sld.cu).
+  
 
 
 
