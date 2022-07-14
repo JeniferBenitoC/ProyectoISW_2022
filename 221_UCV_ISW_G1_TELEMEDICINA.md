@@ -570,23 +570,41 @@ CREATE TABLE `paciente` (
 
   
   ### **3.3.2.2. Diseño de Reportes
+  
+  **REPORTE DE  USUARIOS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178955712-5a6595cb-d8d8-440f-a119-d3dcbfc1c339.png)
 
-3.3.3. DIAGRAMA DE LA CAPA DE PRESENTACION
+  **REPORTE DE  PACIENTES**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178955934-acfa39ba-86e0-47d6-b921-a2a9fa6e70ee.png)
+
+  **REPORTE DE MEDICAMENTOS**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178956086-948082fe-f3db-4f85-8e8a-1944ebdeebe0.png)
+
+  **BOLETA DE PAGO**
+  
+  ![image](https://user-images.githubusercontent.com/81536639/178956324-bca6edb0-a888-4c76-948b-b215f62e77ac.png)
+
+## **3.3.3. DIAGRAMA DE LA CAPA DE PRESENTACIÓ**
   
   ![image](https://user-images.githubusercontent.com/81536639/178939784-bbf21f14-b1c5-4130-8816-10356d1d97dc.png)
 
-3.3.4. DIAGRAMAS DE LA CAPA DE NEGOCIO
+## **3.3.4. DIAGRAMAS DE LA CAPA DE NEGOCIO**
 
-![image](https://user-images.githubusercontent.com/81536639/178629635-71fa866e-43b4-43a6-8f91-10247e722f6a.png)
+![image](https://user-images.githubusercontent.com/81536639/178951100-148782af-6b6f-46a9-9689-bea3f0305c08.png)
 
-3.3.6. DIAGRAMA DE COMPONENTES
+  ## **3.3.5. DIAGRAMA DE CAPA DE DATOS**
+  ![image](https://user-images.githubusercontent.com/81536639/178954909-5a8b2c68-15a5-4e8b-82cd-78ff2a09c514.png)
+  
+## **3.3.6. DIAGRAMA DE COMPONENETES**
 
 ![image](https://user-images.githubusercontent.com/81536639/178627034-dce792e6-a6c1-442e-b8a3-230f964db526.png)
 
+##  **3.3.7. DIAGRAMAS DE DISTRIBUAC**
 
-3.3.7. DIAGRAMAS DE DISTRIBUCION
-
-![image](https://user-images.githubusercontent.com/81536639/178629552-e8b5e02e-616e-4b5c-a146-4a36ea86df4b.png)
+![image](https://user-images.githubusercontent.com/81536639/178946156-007713e2-b8fa-4444-9231-31f79f96c91c.png)
 
 ##  **CONCLUSIONES**
 
@@ -597,6 +615,12 @@ CREATE TABLE `paciente` (
 * El diseño del sistema de información propuesto en el presente proyecto atenderá las necesidades del personal de salud de salud y pacientes del Centro de Salud Comas.
 
 *  El implementar el sistema de información propuesto en el proyecto contribuirá a disminuir los retrasos en la atención de los pacientes gracias a la Telemedicina, cubriendo las brechas de demanda de atención.
+  
+## **RECOMENDACIONES**
+  
+  *  Es importante incentivar el uso de las tecnologías de la información en las institu del estado ya que permiten agilizar el trabajo que realizan y de esta forma cubrir la demanda insatisfecha que existe entre los pacientes.
+  
+  *  Es importante la constante capacitación en el uso de las tecnologías de la informaci en el personal que labora en los centros de salud para que adquieran las destrezas necesarias para el manejos de los diferentes software que se estan implementando.
 
 ## **BIBLIOGRAFÍA**
   
