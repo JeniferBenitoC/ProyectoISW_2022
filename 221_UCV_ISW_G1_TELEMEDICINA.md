@@ -342,34 +342,32 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**NOMBRE**| Consultar medicamentos|
 |**DESCRIPCIÓN**|El sistema debe permitir consultar los medicamentos que posee el centro de salud.|
 
-
-![image](https://user-images.githubusercontent.com/81536639/178926403-eee3710d-2eeb-4462-9959-d87e73ede1ce.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178926479-d0ebea60-356b-4789-92f9-392c91cf773c.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178926599-7e2c1614-0d59-4263-911f-3b4b9d480fff.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178926685-d7f01146-350d-4a18-a0c6-5910dbfec459.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178926797-b3948dc7-7e29-4a7f-af4f-6756b9ec23d0.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178926890-38f9b6a0-8868-461e-b5ff-b262b811a2c4.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178926963-4ee6ee40-2eb0-453b-a2db-5eebf39554d6.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178927162-7d2545a8-2b60-495a-a3ed-648b76ec71e3.png)
-
-![image](https://user-images.githubusercontent.com/81536639/178927216-c4a6fa4e-32df-444e-969d-57c11a3231bc.png)
-
 #### **3.1.2. Cuadro de requerimientos no funcionales, indicando: identificativo, nombres y descripcion**
 
-![image](https://user-images.githubusercontent.com/81536639/178927680-620cb8d9-16d4-4046-a237-8194b9924bf7.png)
+|**REQUERIMIENTO NO FUNCIONAL**| |
+| :-: | :-: |
+|**IDENTIFICADOR**|RNF 01|
+|**NOMBRE**|Usabilidad|
+|**DESCRIPCIÓN**| El sistema debe de ser de fácil manejo para los usuarios del sistema.|
 
-![image](https://user-images.githubusercontent.com/81536639/178927745-789b9fcc-dea4-48a3-bb01-3a27d216558d.png)
+|**REQUERIMIENTO NO FUNCIONAL**| |
+| :-: | :-: |
+|**IDENTIFICADOR**|RNF 02|
+|**NOMBRE**| Base de datos |
+|**DESCRIPCIÓN**| El gestor de Base de Datos a utilizar será MySQL 5.1.|
 
-![image](https://user-images.githubusercontent.com/81536639/178927998-ca6161c7-e870-4934-9f98-a7cfce695518.png)
+|**REQUERIMIENTO NO FUNCIONAL**| |
+| :-: | :-: |
+|**IDENTIFICADOR**|RNF 03|
+|**NOMBRE**| Sistema Operativo |
+|**DESCRIPCIÓN**| El sistema que se implementará tendrá acceso al Sistema operativo Windows 7 en adelante. El sistema tendrá acceso a computadores de sistemas operativos de 32 bits y 64 bits.|
 
-![image](https://user-images.githubusercontent.com/81536639/178928120-85e48908-ff32-4931-853b-d27f37705873.png)
+|**REQUERIMIENTO NO FUNCIONAL**| |
+| :-: | :-: |
+|**IDENTIFICADOR**|RNF 04|
+|**NOMBRE**| Persistencia|
+|**DESCRIPCIÓN**| Los datos almacenados por el Sistema deberán ser consistentes, no deben estar incompletos o fallidos, ni alterados.|
+
 
 #### **3.1.3. Cuadro de relación de actores y su descri**
 
