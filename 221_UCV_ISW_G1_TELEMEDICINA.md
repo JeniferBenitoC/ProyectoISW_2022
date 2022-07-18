@@ -434,7 +434,17 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 ## **3.2.2. Lista de Clases de Interfaz**
 
+  
+|**Nro.**|**INTERFAZ**|**DESCRIPCIÓN**|
+| :-: | :-: | :-: |
+|**IT01**|LOGIN|Interfaz que va a peremitir el acceso al sistema, validando el usuario y la contraseña.|
+|**IT02**|PRINCIPAL|Interfaz compuesta de un menú que permite una salida rapida ademas de la impresión de reportes, un Tabbed Pane que permite la implementación de diferentes paneles que permitirá los CRUD a las diferentes entidades que estamos considerando en el sistema como: usuarios, médicos, pacientes, etc.|
+|**IT03**|MODULO DE ATENCION|Interfaz que permite ingresar la información correspondiente a la atención realizada por el profesional de la salud.|
+|**IT04**|BOLETA DE PAGO|Interfaz que permite generar el detalle del servicio brindado para su respectivo pago
+  
 ![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png)
+  
+  
   
 ## **3.2.3. Lista de Clases de Control**
   
