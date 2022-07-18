@@ -459,7 +459,7 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 |**Nro.**|**ENTIDAD**|**DESCRIPCIÓN**|
 | :-: | :-: | :-: |
 |**EN01**|**PROGRAMACIÓN DE PROFESIONALES**|Es un instrumento fisico o electronico que contiene los turnos de los profesionales de la IPRESS.|
-|**EN02**|**PACIENTE*|Es la personsa que sufre de dolor o malestar y solicita atención médica.|
+|**EN02**|**PACIENTE**|Es la personsa que sufre de dolor o malestar y solicita atención médica.|
 |**EN03**|**CITA**|Es el procedimiento donde el profesional de la salud brinda atención al paciente.|
 |**EN04**|**FUAT**|Es un instrumento físico o electrónico que contiene datos de identidad, tipo de servicio que se le indica, la información clinica resumida del paciente con patologías crónicas u otras.|
 |**EN05**|**RECETA MEDICA**|Es un documento fisico o electroico donde los medicos capacitados prescriben la medicación del paciente.|
