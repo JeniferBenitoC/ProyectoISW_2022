@@ -288,7 +288,7 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 
 #### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripción
 
-|**REQUERIMIENTO FUNCIONAL**| |
+|**REQUERIMIENTO FUNCIONAL**| 
 | :-: | :-: |
 |**IDENTIFICADOR**|RF 01|
 |**NOMBRE**|Consultar programación de profesionales|
