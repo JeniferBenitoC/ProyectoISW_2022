@@ -437,22 +437,34 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
   
 |**Nro.**|**INTERFAZ**|**DESCRIPCIÓN**|
 | :-: | :-: | :-: |
-|**IT01**|LOGIN|Interfaz que va a peremitir el acceso al sistema, validando el usuario y la contraseña.|
-|**IT02**|PRINCIPAL|Interfaz compuesta de un menú que permite una salida rapida ademas de la impresión de reportes, un Tabbed Pane que permite la implementación de diferentes paneles que permitirá los CRUD a las diferentes entidades que estamos considerando en el sistema como: usuarios, médicos, pacientes, etc.|
-|**IT03**|MODULO DE ATENCION|Interfaz que permite ingresar la información correspondiente a la atención realizada por el profesional de la salud.|
-|**IT04**|BOLETA DE PAGO|Interfaz que permite generar el detalle del servicio brindado para su respectivo pago
-  
-![image](https://user-images.githubusercontent.com/81536639/171310149-0e0f852e-ef8e-4d7b-b19a-b0f4b5f1fc0e.png)
-  
-  
+|**IT01**|**LOGIN**|Interfaz que va a peremitir el acceso al sistema, validando el usuario y la contraseña.|
+|**IT02**|**PRINCIPAL**|Interfaz compuesta de un menú que permite una salida rapida ademas de la impresión de reportes, un Tabbed Pane que permite la implementación de diferentes paneles que permitirá los CRUD a las diferentes entidades que estamos considerando en el sistema como: usuarios, médicos, pacientes, etc.|
+|**IT03**|**MODULO DE ATENCION**|Interfaz que permite ingresar la información correspondiente a la atención realizada por el profesional de la salud.|
+|**IT04**|**BOLETA DE PAGO**|Interfaz que permite generar el detalle del servicio brindado para su respectivo pago.|
   
 ## **3.2.3. Lista de Clases de Control**
   
-![image](https://user-images.githubusercontent.com/81536639/171310035-b35fb3d7-beae-4190-a065-b973fee57ae6.png)
+
+|**Nro.**|**CONTROL**|**DESCRIPCIÓN**|
+| :-: | :-: | :-: |
+|**CO01**|**MANTENER USUARIO**|Clase control que permitirá el registro, modificación y eliminación de los usuarios que tienen acceso al sistema.|
+|**CO02**|**MANTENER MEDICO**|Clase control que permitirá el registro, modificación y eliminación de los médicos que trabajan en la IPRESS.|
+|**CO03**|**MANTENER PACIENTE**|Clase control que permitirá el registro, modificación y eliminación de los pacientes de la jurisdicción.|
+|**CO04**|**MANTENER CITA**|Clase control que permitirá el registro, modificación y eliminación de las citas realizadas en el establecimiento de salud.|
+|**CO05**|**MANTENER HISTORIA CLINICA**|Clase control que permitirá el registro, modificación y eliminación de los antecedentes personales, familiares de los pacientes.|
+|**CO06**|**IMPRIMIR REPORTE**|Clase control que permitirá generar un documento en pdf donde se encuentre la relación de información de usuarios, médicos, pacientes, etc.|
 
 ## **3.2.4. Lista de Claes de Entidades**
 
-![image](https://user-images.githubusercontent.com/81536639/171303812-0a92146e-2aa6-4a90-86d0-9eb1d26fbc74.png)
+|**Nro.**|**ENTIDAD**|**DESCRIPCIÓN**|
+| :-: | :-: | :-: |
+|**EN01**|**PROGRAMACIÓN DE PROFESIONALES**|Es un instrumento fisico o electronico que contiene los turnos de los profesionales de la IPRESS.|
+|**EN02**|**PACIENTE*|Es la personsa que sufre de dolor o malestar y solicita atención médica.|
+|**EN03**|**CITA**|Es el procedimiento donde el profesional de la salud brinda atención al paciente.|
+|**EN04**|**FUAT**|Es un instrumento físico o electrónico que contiene datos de identidad, tipo de servicio que se le indica, la información clinica resumida del paciente con patologías crónicas u otras.|
+|**EN05**|**RECETA MEDICA**|Es un documento fisico o electroico donde los medicos capacitados prescriben la medicación del paciente.|
+|**EN06**|**LISTA DE MEDICAMENTO**|Es un instrumento físico o electrónico que almacena información de los medicamentos con los que cuenta la farmacia.|
+
 
 ## **3.2.5. Modelo Logico de Clases**
 
