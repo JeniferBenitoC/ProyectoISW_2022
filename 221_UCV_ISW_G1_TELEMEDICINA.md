@@ -287,12 +287,6 @@ Podemos considerar que es una herramienta que ha llegado para quedarse, debido a
 ### **3.1. Modelo de Requerimientos**
 
 #### **3.1.1. Cuadro de requerimientos funcionales, indicando: identificativo, nombres y descripción
-| **REQUERIMIENTO FUNCIONAL** |
-| :-: |
-| **IDENTIFICADOR**|RF 01|
-| **NOMBRE** |Consultar programación de profesionales|
-| **DESCRIPCION** |El sistema debe permitir consultar la programación de turnos de los profesionales de la IPRESS por parte del técnico de enfermería.|
-
 
 ![image](https://user-images.githubusercontent.com/81536639/178926403-eee3710d-2eeb-4462-9959-d87e73ede1ce.png)
 
@@ -626,7 +620,7 @@ CREATE TABLE `paciente` (
   
   *  Es importante incentivar el uso de las tecnologías de la información en las institu del estado ya que permiten agilizar el trabajo que realizan y de esta forma cubrir la demanda insatisfecha que existe entre los pacientes.
   
-  *  Es importante la constante capacitación en el uso de las tecnologías de la informaci en el personal que labora en los centros de salud para que adquieran las destrezas necesarias para el manejos de los diferentes software que se estan implementando.
+  *  Es importante la constante capacitación en el uso de las tecnologías de la informaci en el personal que labora en los centros de salud para que adquieran las destrezas necesarias para el manejos de los diferentes software que se estan implementando.el
 
 ## **BIBLIOGRAFÍA**
   
